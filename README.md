@@ -9,6 +9,8 @@ To view the full project proposal and see a greater breakdown of the project tim
 
 To view program demonstration see the `assets` folder or click here: [Program Demo](https://github.com/tonygonzalez14/jetson-ocr/blob/main/assets/A2e%20OCR%20Program%20Demo.mp4)
 
+This project was done in partnership with A2e Technologies under their Summer Internship Program.
+
 ---
 # Getting Started
 
@@ -253,6 +255,7 @@ An output log `program.log` should be created once the program concludes that in
 # Acknowledgements
 
 Lastly, I would like to recognize the resources that helped in the development of this system:
+* [A2e Technologies](https://www.a2etechnologies.com/)
 * [Jetson Orin Nano Developer Kit Getting Started Guide](https://developer.nvidia.com/embedded/learn/get-started-jetson-orin-nano-devkit#intro)
 * [NVIDIA SDK Manager Tutorial: Installing Jetson Software Explained](https://www.youtube.com/watch?v=Ucg5Zqm9ZMk)
 * [NVIDIA SDK Manager Documentation](https://docs.nvidia.com/sdk-manager/)
