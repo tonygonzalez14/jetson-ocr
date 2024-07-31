@@ -5,9 +5,9 @@ This project aimed to develop and implement an Optical Character Recognition (OC
 
 The educational goal of this project was to learn and understand the low-level implementation and functionality of neural networks. Therefore, all major functionalities for performing character inference were written from scratch, avoiding the use of common Python and C/C++ libraries.
 
-To view the full project proposal and see a greater breakdown of the project timeline, please refer to documentation here: [Project Proposal](https://jira.a2etechnologies.com:8444/projects/AEOCR/repos/jetson-ocr/browse/assets/Antonio_Gonzalez_Project_Proposal_Final.pdf)
+To view the full project proposal and see a greater breakdown of the project timeline, please refer to documentation here: [Project Proposal](https://github.com/tonygonzalez14/jetson-ocr/blob/main/assets/Antonio_Gonzalez_Project_Proposal_Final.pdf)
 
-To view program demonstration see the `assets` folder or click here: [Program Demo](https://jira.a2etechnologies.com:8444/projects/AEOCR/repos/jetson-ocr/browse/assets/A2e%20OCR%20Program%20Demo.mp4)
+To view program demonstration see the `assets` folder or click here: [Program Demo](https://github.com/tonygonzalez14/jetson-ocr/blob/main/assets/A2e%20OCR%20Program%20Demo.mp4)
 
 ---
 # Getting Started
@@ -173,7 +173,7 @@ At the highest level, the folders are split between the source code `code` and t
 		* Additional utility Python scripts
 * ## data
 	* Images used to train the model (40px x 60px). Training data contains alphanumeric English characters (62 classes). Uses 3475 font styles available in Google Fonts
-	* The images are compressed in a zip folder and must be extracted before use. See [README - Data](https://jira.a2etechnologies.com:8444/projects/AEOCR/repos/jetson-ocr/browse/data/README.md)
+	* The images are compressed in a zip folder and must be extracted before use. See [README - Data](https://github.com/tonygonzalez14/jetson-ocr/tree/main/data)
 	* Dataset link: [OCR-Dataset](https://www.kaggle.com/datasets/harieh/ocr-dataset)
 
 ---
@@ -206,7 +206,7 @@ If built successfully, a file called `libcuda_inference.so` should be created, a
 ### Test Page
 A test page with 11pt Arial font should be used. Individual characters and/or separate words should have at least a tab's worth of space in between to avoid being represented as a whole word. Individual characters of a word should have exactly 1 space in-between each other to be considered part of the same word so that the program can properly detect individual characters. Characters/words should be at least double spaced apart to be detected on separate lines.
 
-**An example test page can be found in the `assets` folder. Or click [Here](https://jira.a2etechnologies.com:8444/projects/AEOCR/repos/jetson-ocr/browse/assets/Example%20OCR%20Test%20Page.docx)**
+**An example test page can be found in the `assets` folder. Or click [Here](https://github.com/tonygonzalez14/jetson-ocr/blob/main/assets/Example%20OCR%20Test%20Page.docx)**
 ### Running the System
 Navigate to the inference folder.
 ```bash
