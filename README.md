@@ -260,7 +260,7 @@ Lastly, I would like to recognize the resources that helped in the development o
 * [NVIDIA SDK Manager Tutorial: Installing Jetson Software Explained](https://www.youtube.com/watch?v=Ucg5Zqm9ZMk)
 * [NVIDIA SDK Manager Documentation](https://docs.nvidia.com/sdk-manager/)
 * [ArduCam Quick-Start-Guide](https://docs.arducam.com/Nvidia-Jetson-Camera/Native-Camera/Quick-Start-Guide/)
-* [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html))
+* [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
 * [PNG Encoder and Decoder in C and C++](https://github.com/lvandeve/lodepng)
 * [Contrast Stretching Background Info](https://homepages.inf.ed.ac.uk/rbf/HIPR2/stretch.htm)
 * [YouTube NVIDIA Jetson Tutorials](https://www.youtube.com/@JetsonHacks)
