@@ -3,7 +3,7 @@
 ### Test Page
 A test page with 11pt Arial font should be used. Individual characters and/or separate words should have at least a tab's worth of space in between to avoid being represented as a whole word. Individual characters of a word should have exactly 1 space in-between each other to be considered part of the same word so that the program can properly detect individual characters. Characters/words should be at least double spaced apart to be detected on separate lines.
 
-**An example test page can be found in the `assets` folder. Or click [Here](https://jira.a2etechnologies.com:8444/projects/AEOCR/repos/jetson-ocr/browse/assets/Example%20OCR%20Test%20Page.docx)**
+**An example test page can be found in the `assets` folder. Or click [Here](https://github.com/tonygonzalez14/jetson-ocr/blob/main/assets/Example%20OCR%20Test%20Page.docx)**
 
 ---
 # Running the System
