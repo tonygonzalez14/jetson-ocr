@@ -9,7 +9,7 @@ To view the full project proposal and see a greater breakdown of the project tim
 
 To view program demonstration see the `assets` folder or click here: [Program Demo](https://github.com/tonygonzalez14/jetson-ocr/blob/main/assets/A2e%20OCR%20Program%20Demo.mp4)
 
-This project was done in partnership with A2e Technologies under their Summer Internship Program.
+This project was done in collaboration with [A2e Technologies](https://www.a2etechnologies.com/) under their Summer Internship Program.
 
 ---
 # Getting Started
