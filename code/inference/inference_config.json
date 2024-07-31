@@ -1,0 +1,15 @@
+{
+   "weights_layers" : [
+      "/model/trained-model/weights_layer1.csv",
+      "/model/trained-model/weights_layer2.csv",
+      "/model/trained-model/weights_layer3.csv",
+      "/model/trained-model/weights_layer4.csv"
+   ],
+   "biases_layers" : [
+      "/model/trained-model/biases_layer1.csv",
+      "/model/trained-model/biases_layer2.csv",
+      "/model/trained-model/biases_layer3.csv",
+      "/model/trained-model/biases_layer4.csv"
+   ],
+   "video_capture_settings" : "nvarguscamerasrc ! video/x-raw(memory:NVMM), width=1920, height=1080, framerate=60/1 ! nvvidconv ! video/x-raw, format=BGRx ! videoconvert ! video/x-raw, format=BGR ! appsink"
+}

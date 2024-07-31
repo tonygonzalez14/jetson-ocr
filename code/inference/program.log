@@ -1,0 +1,1250 @@
+2024-07-25 12:06:45,185 - __main__ - INFO - Program started
+2024-07-25 12:06:45,189 - __main__ - INFO - Loading JSON configuration file named: inference_config.json
+2024-07-25 12:06:45,189 - __main__ - INFO - Program running in video mode
+2024-07-25 12:06:45,190 - __main__ - INFO - Starting CUDA inference
+2024-07-25 12:06:45,191 - __main__ - INFO - Allocating program resources
+2024-07-25 12:06:48,352 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:48,452 - __main__ - INFO - Detected character at (x: 643, y: 332) with width: 82 and height: 103
+2024-07-25 12:06:48,452 - __main__ - INFO - Detected character at (x: 760, y: 340) with width: 67 and height: 102
+2024-07-25 12:06:48,452 - __main__ - INFO - Detected character at (x: 857, y: 346) with width: 46 and height: 102
+2024-07-25 12:06:48,457 - __main__ - INFO - Detected character at (x: 945, y: 352) with width: 58 and height: 104
+2024-07-25 12:06:48,458 - __main__ - INFO - Detected character at (x: 1027, y: 359) with width: 96 and height: 104
+2024-07-25 12:06:48,458 - __main__ - INFO - Detected character at (x: 1281, y: 377) with width: 129 and height: 108
+2024-07-25 12:06:48,458 - __main__ - INFO - Detected character at (x: 1428, y: 394) with width: 88 and height: 100
+2024-07-25 12:06:48,458 - __main__ - INFO - Detected character at (x: 1546, y: 403) with width: 63 and height: 101
+2024-07-25 12:06:48,458 - __main__ - INFO - Detected character at (x: 1642, y: 413) with width: 47 and height: 97
+2024-07-25 12:06:48,458 - __main__ - INFO - Detected character at (x: 1713, y: 424) with width: 53 and height: 93
+2024-07-25 12:06:48,465 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:48,467 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:48,484 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:48,752 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:48,817 - __main__ - INFO - Detected character at (x: 643, y: 332) with width: 82 and height: 103
+2024-07-25 12:06:48,820 - __main__ - INFO - Detected character at (x: 760, y: 339) with width: 67 and height: 103
+2024-07-25 12:06:48,820 - __main__ - INFO - Detected character at (x: 857, y: 346) with width: 57 and height: 102
+2024-07-25 12:06:48,820 - __main__ - INFO - Detected character at (x: 945, y: 352) with width: 58 and height: 104
+2024-07-25 12:06:48,820 - __main__ - INFO - Detected character at (x: 1027, y: 359) with width: 96 and height: 104
+2024-07-25 12:06:48,820 - __main__ - INFO - Detected character at (x: 1281, y: 377) with width: 129 and height: 108
+2024-07-25 12:06:48,820 - __main__ - INFO - Detected character at (x: 1428, y: 394) with width: 88 and height: 100
+2024-07-25 12:06:48,820 - __main__ - INFO - Detected character at (x: 1546, y: 403) with width: 63 and height: 101
+2024-07-25 12:06:48,820 - __main__ - INFO - Detected character at (x: 1642, y: 413) with width: 47 and height: 97
+2024-07-25 12:06:48,820 - __main__ - INFO - Detected character at (x: 1713, y: 424) with width: 53 and height: 93
+2024-07-25 12:06:48,822 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:48,823 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:48,838 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:48,876 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:48,942 - __main__ - INFO - Detected character at (x: 643, y: 332) with width: 82 and height: 103
+2024-07-25 12:06:48,943 - __main__ - INFO - Detected character at (x: 760, y: 340) with width: 67 and height: 102
+2024-07-25 12:06:48,943 - __main__ - INFO - Detected character at (x: 857, y: 346) with width: 57 and height: 102
+2024-07-25 12:06:48,943 - __main__ - INFO - Detected character at (x: 945, y: 352) with width: 58 and height: 104
+2024-07-25 12:06:48,943 - __main__ - INFO - Detected character at (x: 1027, y: 359) with width: 96 and height: 104
+2024-07-25 12:06:48,943 - __main__ - INFO - Detected character at (x: 1281, y: 377) with width: 129 and height: 108
+2024-07-25 12:06:48,943 - __main__ - INFO - Detected character at (x: 1428, y: 394) with width: 88 and height: 100
+2024-07-25 12:06:48,943 - __main__ - INFO - Detected character at (x: 1546, y: 403) with width: 63 and height: 101
+2024-07-25 12:06:48,943 - __main__ - INFO - Detected character at (x: 1642, y: 413) with width: 47 and height: 97
+2024-07-25 12:06:48,943 - __main__ - INFO - Detected character at (x: 1713, y: 424) with width: 53 and height: 93
+2024-07-25 12:06:48,950 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:48,952 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:48,965 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:48,980 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:49,043 - __main__ - INFO - Detected character at (x: 643, y: 331) with width: 82 and height: 104
+2024-07-25 12:06:49,043 - __main__ - INFO - Detected character at (x: 760, y: 340) with width: 67 and height: 102
+2024-07-25 12:06:49,043 - __main__ - INFO - Detected character at (x: 857, y: 346) with width: 57 and height: 102
+2024-07-25 12:06:49,043 - __main__ - INFO - Detected character at (x: 945, y: 352) with width: 58 and height: 104
+2024-07-25 12:06:49,043 - __main__ - INFO - Detected character at (x: 1027, y: 359) with width: 96 and height: 104
+2024-07-25 12:06:49,043 - __main__ - INFO - Detected character at (x: 1281, y: 377) with width: 129 and height: 108
+2024-07-25 12:06:49,043 - __main__ - INFO - Detected character at (x: 1428, y: 394) with width: 88 and height: 100
+2024-07-25 12:06:49,044 - __main__ - INFO - Detected character at (x: 1546, y: 403) with width: 63 and height: 101
+2024-07-25 12:06:49,044 - __main__ - INFO - Detected character at (x: 1642, y: 413) with width: 47 and height: 97
+2024-07-25 12:06:49,044 - __main__ - INFO - Detected character at (x: 1713, y: 424) with width: 53 and height: 93
+2024-07-25 12:06:49,052 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:49,053 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:49,065 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:49,074 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:49,123 - __main__ - INFO - Detected character at (x: 643, y: 332) with width: 82 and height: 103
+2024-07-25 12:06:49,124 - __main__ - INFO - Detected character at (x: 760, y: 340) with width: 67 and height: 102
+2024-07-25 12:06:49,124 - __main__ - INFO - Detected character at (x: 857, y: 346) with width: 57 and height: 102
+2024-07-25 12:06:49,124 - __main__ - INFO - Detected character at (x: 945, y: 352) with width: 58 and height: 104
+2024-07-25 12:06:49,124 - __main__ - INFO - Detected character at (x: 1027, y: 359) with width: 96 and height: 104
+2024-07-25 12:06:49,124 - __main__ - INFO - Detected character at (x: 1281, y: 377) with width: 129 and height: 108
+2024-07-25 12:06:49,124 - __main__ - INFO - Detected character at (x: 1428, y: 394) with width: 88 and height: 100
+2024-07-25 12:06:49,124 - __main__ - INFO - Detected character at (x: 1546, y: 403) with width: 63 and height: 101
+2024-07-25 12:06:49,124 - __main__ - INFO - Detected character at (x: 1642, y: 413) with width: 47 and height: 97
+2024-07-25 12:06:49,124 - __main__ - INFO - Detected character at (x: 1713, y: 424) with width: 53 and height: 93
+2024-07-25 12:06:49,128 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:49,131 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:49,138 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:49,181 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:49,222 - __main__ - INFO - Detected character at (x: 643, y: 332) with width: 82 and height: 103
+2024-07-25 12:06:49,240 - __main__ - INFO - Detected character at (x: 760, y: 340) with width: 67 and height: 102
+2024-07-25 12:06:49,241 - __main__ - INFO - Detected character at (x: 857, y: 346) with width: 57 and height: 102
+2024-07-25 12:06:49,241 - __main__ - INFO - Detected character at (x: 945, y: 352) with width: 58 and height: 104
+2024-07-25 12:06:49,242 - __main__ - INFO - Detected character at (x: 1027, y: 359) with width: 96 and height: 104
+2024-07-25 12:06:49,242 - __main__ - INFO - Detected character at (x: 1281, y: 377) with width: 129 and height: 108
+2024-07-25 12:06:49,242 - __main__ - INFO - Detected character at (x: 1428, y: 394) with width: 88 and height: 100
+2024-07-25 12:06:49,242 - __main__ - INFO - Detected character at (x: 1546, y: 403) with width: 63 and height: 101
+2024-07-25 12:06:49,242 - __main__ - INFO - Detected character at (x: 1642, y: 412) with width: 47 and height: 98
+2024-07-25 12:06:49,242 - __main__ - INFO - Detected character at (x: 1713, y: 424) with width: 53 and height: 93
+2024-07-25 12:06:49,244 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:49,246 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:49,254 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:49,265 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:49,335 - __main__ - INFO - Detected character at (x: 1367, y: 201) with width: 50 and height: 62
+2024-07-25 12:06:49,337 - __main__ - INFO - Detected character at (x: 641, y: 330) with width: 86 and height: 106
+2024-07-25 12:06:49,337 - __main__ - INFO - Detected character at (x: 758, y: 338) with width: 71 and height: 105
+2024-07-25 12:06:49,337 - __main__ - INFO - Detected character at (x: 855, y: 344) with width: 60 and height: 106
+2024-07-25 12:06:49,337 - __main__ - INFO - Detected character at (x: 943, y: 351) with width: 62 and height: 106
+2024-07-25 12:06:49,337 - __main__ - INFO - Detected character at (x: 1026, y: 358) with width: 99 and height: 106
+2024-07-25 12:06:49,337 - __main__ - INFO - Detected character at (x: 1279, y: 376) with width: 133 and height: 110
+2024-07-25 12:06:49,338 - __main__ - INFO - Detected character at (x: 1427, y: 393) with width: 90 and height: 102
+2024-07-25 12:06:49,338 - __main__ - INFO - Detected character at (x: 1545, y: 402) with width: 66 and height: 104
+2024-07-25 12:06:49,338 - __main__ - INFO - Detected character at (x: 1639, y: 411) with width: 52 and height: 101
+2024-07-25 12:06:49,338 - __main__ - INFO - Detected character at (x: 1712, y: 423) with width: 56 and height: 95
+2024-07-25 12:06:49,342 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:49,344 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:49,354 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:49,374 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:49,491 - __main__ - INFO - Detected character at (x: 1367, y: 201) with width: 50 and height: 77
+2024-07-25 12:06:49,494 - __main__ - INFO - Detected character at (x: 641, y: 330) with width: 86 and height: 107
+2024-07-25 12:06:49,496 - __main__ - INFO - Detected character at (x: 758, y: 338) with width: 72 and height: 106
+2024-07-25 12:06:49,496 - __main__ - INFO - Detected character at (x: 855, y: 344) with width: 60 and height: 106
+2024-07-25 12:06:49,496 - __main__ - INFO - Detected character at (x: 943, y: 351) with width: 63 and height: 106
+2024-07-25 12:06:49,496 - __main__ - INFO - Detected character at (x: 1026, y: 358) with width: 99 and height: 106
+2024-07-25 12:06:49,496 - __main__ - INFO - Detected character at (x: 1279, y: 376) with width: 133 and height: 110
+2024-07-25 12:06:49,496 - __main__ - INFO - Detected character at (x: 1427, y: 392) with width: 91 and height: 104
+2024-07-25 12:06:49,496 - __main__ - INFO - Detected character at (x: 1544, y: 401) with width: 67 and height: 105
+2024-07-25 12:06:49,497 - __main__ - INFO - Detected character at (x: 1639, y: 411) with width: 52 and height: 101
+2024-07-25 12:06:49,497 - __main__ - INFO - Detected character at (x: 1712, y: 423) with width: 57 and height: 95
+2024-07-25 12:06:49,515 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:49,520 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:49,527 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:49,567 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:49,856 - __main__ - INFO - Detected character at (x: 1367, y: 200) with width: 50 and height: 78
+2024-07-25 12:06:49,867 - __main__ - INFO - Detected character at (x: 641, y: 330) with width: 86 and height: 107
+2024-07-25 12:06:49,872 - __main__ - INFO - Detected character at (x: 758, y: 338) with width: 72 and height: 106
+2024-07-25 12:06:49,872 - __main__ - INFO - Detected character at (x: 855, y: 344) with width: 61 and height: 106
+2024-07-25 12:06:49,872 - __main__ - INFO - Detected character at (x: 943, y: 351) with width: 63 and height: 106
+2024-07-25 12:06:49,873 - __main__ - INFO - Detected character at (x: 1026, y: 358) with width: 99 and height: 106
+2024-07-25 12:06:49,873 - __main__ - INFO - Detected character at (x: 1279, y: 376) with width: 133 and height: 110
+2024-07-25 12:06:49,873 - __main__ - INFO - Detected character at (x: 1427, y: 392) with width: 91 and height: 104
+2024-07-25 12:06:49,873 - __main__ - INFO - Detected character at (x: 1544, y: 401) with width: 67 and height: 105
+2024-07-25 12:06:49,874 - __main__ - INFO - Detected character at (x: 1638, y: 411) with width: 61 and height: 101
+2024-07-25 12:06:49,874 - __main__ - INFO - Detected character at (x: 1712, y: 423) with width: 57 and height: 95
+2024-07-25 12:06:49,916 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:49,933 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:49,944 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:49,983 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:50,229 - __main__ - INFO - Detected character at (x: 1367, y: 200) with width: 50 and height: 78
+2024-07-25 12:06:50,236 - __main__ - INFO - Detected character at (x: 641, y: 330) with width: 86 and height: 107
+2024-07-25 12:06:50,241 - __main__ - INFO - Detected character at (x: 758, y: 338) with width: 73 and height: 106
+2024-07-25 12:06:50,241 - __main__ - INFO - Detected character at (x: 855, y: 344) with width: 61 and height: 106
+2024-07-25 12:06:50,241 - __main__ - INFO - Detected character at (x: 943, y: 350) with width: 63 and height: 107
+2024-07-25 12:06:50,241 - __main__ - INFO - Detected character at (x: 1026, y: 358) with width: 99 and height: 106
+2024-07-25 12:06:50,241 - __main__ - INFO - Detected character at (x: 1279, y: 376) with width: 133 and height: 110
+2024-07-25 12:06:50,242 - __main__ - INFO - Detected character at (x: 1427, y: 392) with width: 91 and height: 104
+2024-07-25 12:06:50,242 - __main__ - INFO - Detected character at (x: 1544, y: 401) with width: 67 and height: 105
+2024-07-25 12:06:50,242 - __main__ - INFO - Detected character at (x: 1638, y: 411) with width: 54 and height: 101
+2024-07-25 12:06:50,242 - __main__ - INFO - Detected character at (x: 1712, y: 423) with width: 57 and height: 95
+2024-07-25 12:06:50,283 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:50,298 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:50,307 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:50,320 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:50,520 - __main__ - INFO - Detected character at (x: 1367, y: 200) with width: 50 and height: 78
+2024-07-25 12:06:50,542 - __main__ - INFO - Detected character at (x: 641, y: 330) with width: 86 and height: 107
+2024-07-25 12:06:50,546 - __main__ - INFO - Detected character at (x: 758, y: 338) with width: 72 and height: 106
+2024-07-25 12:06:50,547 - __main__ - INFO - Detected character at (x: 855, y: 344) with width: 61 and height: 106
+2024-07-25 12:06:50,547 - __main__ - INFO - Detected character at (x: 943, y: 350) with width: 63 and height: 107
+2024-07-25 12:06:50,547 - __main__ - INFO - Detected character at (x: 1026, y: 358) with width: 99 and height: 106
+2024-07-25 12:06:50,547 - __main__ - INFO - Detected character at (x: 1279, y: 376) with width: 133 and height: 110
+2024-07-25 12:06:50,548 - __main__ - INFO - Detected character at (x: 1427, y: 392) with width: 91 and height: 104
+2024-07-25 12:06:50,548 - __main__ - INFO - Detected character at (x: 1544, y: 401) with width: 67 and height: 105
+2024-07-25 12:06:50,548 - __main__ - INFO - Detected character at (x: 1638, y: 411) with width: 54 and height: 101
+2024-07-25 12:06:50,548 - __main__ - INFO - Detected character at (x: 1711, y: 423) with width: 58 and height: 95
+2024-07-25 12:06:50,583 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:50,600 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:50,614 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:50,645 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:50,836 - __main__ - INFO - Detected character at (x: 1367, y: 200) with width: 50 and height: 78
+2024-07-25 12:06:50,853 - __main__ - INFO - Detected character at (x: 641, y: 330) with width: 86 and height: 107
+2024-07-25 12:06:50,857 - __main__ - INFO - Detected character at (x: 758, y: 338) with width: 72 and height: 106
+2024-07-25 12:06:50,858 - __main__ - INFO - Detected character at (x: 855, y: 344) with width: 60 and height: 106
+2024-07-25 12:06:50,858 - __main__ - INFO - Detected character at (x: 943, y: 350) with width: 63 and height: 107
+2024-07-25 12:06:50,858 - __main__ - INFO - Detected character at (x: 1026, y: 358) with width: 99 and height: 106
+2024-07-25 12:06:50,858 - __main__ - INFO - Detected character at (x: 1279, y: 376) with width: 133 and height: 110
+2024-07-25 12:06:50,859 - __main__ - INFO - Detected character at (x: 1427, y: 392) with width: 91 and height: 104
+2024-07-25 12:06:50,859 - __main__ - INFO - Detected character at (x: 1544, y: 401) with width: 67 and height: 105
+2024-07-25 12:06:50,859 - __main__ - INFO - Detected character at (x: 1638, y: 411) with width: 54 and height: 101
+2024-07-25 12:06:50,859 - __main__ - INFO - Detected character at (x: 1712, y: 423) with width: 57 and height: 95
+2024-07-25 12:06:50,899 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:50,900 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:50,915 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:50,951 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:51,060 - __main__ - INFO - Detected character at (x: 1367, y: 200) with width: 51 and height: 65
+2024-07-25 12:06:51,065 - __main__ - INFO - Detected character at (x: 641, y: 330) with width: 86 and height: 107
+2024-07-25 12:06:51,066 - __main__ - INFO - Detected character at (x: 758, y: 338) with width: 72 and height: 106
+2024-07-25 12:06:51,066 - __main__ - INFO - Detected character at (x: 855, y: 344) with width: 61 and height: 106
+2024-07-25 12:06:51,066 - __main__ - INFO - Detected character at (x: 943, y: 350) with width: 63 and height: 107
+2024-07-25 12:06:51,066 - __main__ - INFO - Detected character at (x: 1025, y: 358) with width: 100 and height: 106
+2024-07-25 12:06:51,066 - __main__ - INFO - Detected character at (x: 1036, y: 365) with width: 80 and height: 92
+2024-07-25 12:06:51,067 - __main__ - INFO - Detected character at (x: 1279, y: 376) with width: 134 and height: 110
+2024-07-25 12:06:51,067 - __main__ - INFO - Detected character at (x: 1427, y: 392) with width: 91 and height: 104
+2024-07-25 12:06:51,067 - __main__ - INFO - Detected character at (x: 1544, y: 401) with width: 68 and height: 105
+2024-07-25 12:06:51,067 - __main__ - INFO - Detected character at (x: 1638, y: 411) with width: 54 and height: 101
+2024-07-25 12:06:51,067 - __main__ - INFO - Detected character at (x: 1711, y: 423) with width: 58 and height: 95
+2024-07-25 12:06:51,078 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:51,092 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:51,101 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:51,133 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:51,234 - __main__ - INFO - Detected character at (x: 1367, y: 201) with width: 51 and height: 64
+2024-07-25 12:06:51,235 - __main__ - INFO - Detected character at (x: 641, y: 330) with width: 86 and height: 107
+2024-07-25 12:06:51,236 - __main__ - INFO - Detected character at (x: 758, y: 338) with width: 72 and height: 106
+2024-07-25 12:06:51,236 - __main__ - INFO - Detected character at (x: 855, y: 344) with width: 61 and height: 106
+2024-07-25 12:06:51,236 - __main__ - INFO - Detected character at (x: 943, y: 350) with width: 63 and height: 107
+2024-07-25 12:06:51,236 - __main__ - INFO - Detected character at (x: 1026, y: 358) with width: 99 and height: 106
+2024-07-25 12:06:51,236 - __main__ - INFO - Detected character at (x: 1279, y: 376) with width: 134 and height: 110
+2024-07-25 12:06:51,236 - __main__ - INFO - Detected character at (x: 1427, y: 392) with width: 91 and height: 104
+2024-07-25 12:06:51,236 - __main__ - INFO - Detected character at (x: 1544, y: 401) with width: 67 and height: 105
+2024-07-25 12:06:51,236 - __main__ - INFO - Detected character at (x: 1638, y: 411) with width: 54 and height: 101
+2024-07-25 12:06:51,236 - __main__ - INFO - Detected character at (x: 1711, y: 423) with width: 58 and height: 95
+2024-07-25 12:06:51,251 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:51,253 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:51,260 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:51,290 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:51,390 - __main__ - INFO - Detected character at (x: 1367, y: 201) with width: 50 and height: 77
+2024-07-25 12:06:51,401 - __main__ - INFO - Detected character at (x: 641, y: 330) with width: 86 and height: 107
+2024-07-25 12:06:51,401 - __main__ - INFO - Detected character at (x: 758, y: 338) with width: 72 and height: 106
+2024-07-25 12:06:51,401 - __main__ - INFO - Detected character at (x: 855, y: 344) with width: 60 and height: 106
+2024-07-25 12:06:51,401 - __main__ - INFO - Detected character at (x: 943, y: 350) with width: 63 and height: 107
+2024-07-25 12:06:51,401 - __main__ - INFO - Detected character at (x: 1026, y: 358) with width: 99 and height: 106
+2024-07-25 12:06:51,401 - __main__ - INFO - Detected character at (x: 1279, y: 376) with width: 134 and height: 110
+2024-07-25 12:06:51,401 - __main__ - INFO - Detected character at (x: 1427, y: 392) with width: 91 and height: 104
+2024-07-25 12:06:51,401 - __main__ - INFO - Detected character at (x: 1544, y: 401) with width: 67 and height: 105
+2024-07-25 12:06:51,402 - __main__ - INFO - Detected character at (x: 1638, y: 411) with width: 54 and height: 101
+2024-07-25 12:06:51,402 - __main__ - INFO - Detected character at (x: 1711, y: 423) with width: 58 and height: 96
+2024-07-25 12:06:51,408 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:51,427 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:51,431 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:51,460 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:51,540 - __main__ - INFO - Detected character at (x: 1367, y: 200) with width: 50 and height: 65
+2024-07-25 12:06:51,542 - __main__ - INFO - Detected character at (x: 1375, y: 204) with width: 24 and height: 33
+2024-07-25 12:06:51,543 - __main__ - INFO - Detected character at (x: 641, y: 330) with width: 87 and height: 107
+2024-07-25 12:06:51,543 - __main__ - INFO - Detected character at (x: 758, y: 338) with width: 72 and height: 106
+2024-07-25 12:06:51,543 - __main__ - INFO - Detected character at (x: 855, y: 344) with width: 61 and height: 106
+2024-07-25 12:06:51,543 - __main__ - INFO - Detected character at (x: 943, y: 350) with width: 63 and height: 107
+2024-07-25 12:06:51,543 - __main__ - INFO - Detected character at (x: 1026, y: 358) with width: 99 and height: 106
+2024-07-25 12:06:51,543 - __main__ - INFO - Detected character at (x: 1279, y: 376) with width: 134 and height: 110
+2024-07-25 12:06:51,543 - __main__ - INFO - Detected character at (x: 1427, y: 392) with width: 91 and height: 104
+2024-07-25 12:06:51,544 - __main__ - INFO - Detected character at (x: 1544, y: 401) with width: 67 and height: 105
+2024-07-25 12:06:51,544 - __main__ - INFO - Detected character at (x: 1638, y: 411) with width: 54 and height: 101
+2024-07-25 12:06:51,544 - __main__ - INFO - Detected character at (x: 1711, y: 423) with width: 58 and height: 96
+2024-07-25 12:06:51,557 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:51,559 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:51,569 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:51,598 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:51,675 - __main__ - INFO - Detected character at (x: 1367, y: 200) with width: 50 and height: 78
+2024-07-25 12:06:51,680 - __main__ - INFO - Detected character at (x: 1375, y: 204) with width: 24 and height: 33
+2024-07-25 12:06:51,680 - __main__ - INFO - Detected character at (x: 641, y: 330) with width: 86 and height: 107
+2024-07-25 12:06:51,680 - __main__ - INFO - Detected character at (x: 758, y: 337) with width: 72 and height: 107
+2024-07-25 12:06:51,681 - __main__ - INFO - Detected character at (x: 855, y: 344) with width: 61 and height: 106
+2024-07-25 12:06:51,681 - __main__ - INFO - Detected character at (x: 943, y: 350) with width: 63 and height: 107
+2024-07-25 12:06:51,681 - __main__ - INFO - Detected character at (x: 1025, y: 358) with width: 100 and height: 106
+2024-07-25 12:06:51,681 - __main__ - INFO - Detected character at (x: 1279, y: 376) with width: 134 and height: 110
+2024-07-25 12:06:51,681 - __main__ - INFO - Detected character at (x: 1427, y: 392) with width: 91 and height: 104
+2024-07-25 12:06:51,681 - __main__ - INFO - Detected character at (x: 1544, y: 401) with width: 67 and height: 105
+2024-07-25 12:06:51,681 - __main__ - INFO - Detected character at (x: 1638, y: 411) with width: 54 and height: 101
+2024-07-25 12:06:51,681 - __main__ - INFO - Detected character at (x: 1711, y: 423) with width: 58 and height: 95
+2024-07-25 12:06:51,692 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:51,694 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:51,705 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:51,731 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:51,817 - __main__ - INFO - Detected character at (x: 1367, y: 201) with width: 50 and height: 77
+2024-07-25 12:06:51,819 - __main__ - INFO - Detected character at (x: 1375, y: 204) with width: 24 and height: 33
+2024-07-25 12:06:51,821 - __main__ - INFO - Detected character at (x: 641, y: 330) with width: 87 and height: 107
+2024-07-25 12:06:51,821 - __main__ - INFO - Detected character at (x: 758, y: 338) with width: 72 and height: 106
+2024-07-25 12:06:51,821 - __main__ - INFO - Detected character at (x: 855, y: 344) with width: 60 and height: 106
+2024-07-25 12:06:51,821 - __main__ - INFO - Detected character at (x: 943, y: 350) with width: 63 and height: 107
+2024-07-25 12:06:51,821 - __main__ - INFO - Detected character at (x: 1026, y: 358) with width: 99 and height: 106
+2024-07-25 12:06:51,822 - __main__ - INFO - Detected character at (x: 1279, y: 376) with width: 134 and height: 110
+2024-07-25 12:06:51,822 - __main__ - INFO - Detected character at (x: 1427, y: 392) with width: 91 and height: 104
+2024-07-25 12:06:51,822 - __main__ - INFO - Detected character at (x: 1544, y: 401) with width: 67 and height: 105
+2024-07-25 12:06:51,822 - __main__ - INFO - Detected character at (x: 1638, y: 411) with width: 56 and height: 101
+2024-07-25 12:06:51,822 - __main__ - INFO - Detected character at (x: 1711, y: 423) with width: 58 and height: 95
+2024-07-25 12:06:51,835 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:51,840 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:51,848 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:51,881 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:52,126 - __main__ - INFO - Detected character at (x: 1367, y: 201) with width: 50 and height: 77
+2024-07-25 12:06:52,135 - __main__ - INFO - Detected character at (x: 1375, y: 204) with width: 24 and height: 33
+2024-07-25 12:06:52,136 - __main__ - INFO - Detected character at (x: 641, y: 330) with width: 86 and height: 107
+2024-07-25 12:06:52,136 - __main__ - INFO - Detected character at (x: 758, y: 337) with width: 72 and height: 107
+2024-07-25 12:06:52,136 - __main__ - INFO - Detected character at (x: 855, y: 344) with width: 61 and height: 106
+2024-07-25 12:06:52,137 - __main__ - INFO - Detected character at (x: 943, y: 350) with width: 63 and height: 107
+2024-07-25 12:06:52,137 - __main__ - INFO - Detected character at (x: 1026, y: 358) with width: 99 and height: 106
+2024-07-25 12:06:52,137 - __main__ - INFO - Detected character at (x: 1279, y: 376) with width: 134 and height: 110
+2024-07-25 12:06:52,137 - __main__ - INFO - Detected character at (x: 1427, y: 392) with width: 91 and height: 104
+2024-07-25 12:06:52,137 - __main__ - INFO - Detected character at (x: 1544, y: 401) with width: 67 and height: 105
+2024-07-25 12:06:52,137 - __main__ - INFO - Detected character at (x: 1638, y: 411) with width: 55 and height: 101
+2024-07-25 12:06:52,137 - __main__ - INFO - Detected character at (x: 1711, y: 423) with width: 58 and height: 95
+2024-07-25 12:06:52,158 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:52,160 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:52,174 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:52,192 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:52,317 - __main__ - INFO - Detected character at (x: 1367, y: 200) with width: 50 and height: 78
+2024-07-25 12:06:52,320 - __main__ - INFO - Detected character at (x: 641, y: 330) with width: 86 and height: 107
+2024-07-25 12:06:52,320 - __main__ - INFO - Detected character at (x: 758, y: 338) with width: 72 and height: 106
+2024-07-25 12:06:52,320 - __main__ - INFO - Detected character at (x: 855, y: 344) with width: 60 and height: 106
+2024-07-25 12:06:52,320 - __main__ - INFO - Detected character at (x: 943, y: 350) with width: 63 and height: 107
+2024-07-25 12:06:52,320 - __main__ - INFO - Detected character at (x: 1026, y: 358) with width: 99 and height: 106
+2024-07-25 12:06:52,320 - __main__ - INFO - Detected character at (x: 1279, y: 376) with width: 134 and height: 110
+2024-07-25 12:06:52,320 - __main__ - INFO - Detected character at (x: 1426, y: 392) with width: 92 and height: 104
+2024-07-25 12:06:52,320 - __main__ - INFO - Detected character at (x: 1544, y: 401) with width: 68 and height: 105
+2024-07-25 12:06:52,320 - __main__ - INFO - Detected character at (x: 1638, y: 411) with width: 53 and height: 101
+2024-07-25 12:06:52,321 - __main__ - INFO - Detected character at (x: 1712, y: 423) with width: 57 and height: 95
+2024-07-25 12:06:52,340 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:52,347 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:52,357 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:52,393 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:52,504 - __main__ - INFO - Detected character at (x: 1367, y: 200) with width: 50 and height: 78
+2024-07-25 12:06:52,511 - __main__ - INFO - Detected character at (x: 1375, y: 204) with width: 24 and height: 32
+2024-07-25 12:06:52,513 - __main__ - INFO - Detected character at (x: 641, y: 330) with width: 86 and height: 107
+2024-07-25 12:06:52,513 - __main__ - INFO - Detected character at (x: 758, y: 338) with width: 72 and height: 106
+2024-07-25 12:06:52,513 - __main__ - INFO - Detected character at (x: 855, y: 344) with width: 60 and height: 106
+2024-07-25 12:06:52,513 - __main__ - INFO - Detected character at (x: 943, y: 350) with width: 63 and height: 107
+2024-07-25 12:06:52,513 - __main__ - INFO - Detected character at (x: 1026, y: 358) with width: 99 and height: 106
+2024-07-25 12:06:52,514 - __main__ - INFO - Detected character at (x: 1279, y: 376) with width: 134 and height: 110
+2024-07-25 12:06:52,514 - __main__ - INFO - Detected character at (x: 1427, y: 392) with width: 91 and height: 104
+2024-07-25 12:06:52,514 - __main__ - INFO - Detected character at (x: 1544, y: 401) with width: 67 and height: 105
+2024-07-25 12:06:52,514 - __main__ - INFO - Detected character at (x: 1638, y: 411) with width: 54 and height: 101
+2024-07-25 12:06:52,514 - __main__ - INFO - Detected character at (x: 1711, y: 423) with width: 58 and height: 95
+2024-07-25 12:06:52,536 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:52,538 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:52,551 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:52,583 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:52,665 - __main__ - INFO - Detected character at (x: 1367, y: 201) with width: 51 and height: 77
+2024-07-25 12:06:52,667 - __main__ - INFO - Detected character at (x: 641, y: 330) with width: 86 and height: 107
+2024-07-25 12:06:52,668 - __main__ - INFO - Detected character at (x: 758, y: 337) with width: 72 and height: 107
+2024-07-25 12:06:52,668 - __main__ - INFO - Detected character at (x: 855, y: 344) with width: 60 and height: 106
+2024-07-25 12:06:52,668 - __main__ - INFO - Detected character at (x: 943, y: 350) with width: 63 and height: 107
+2024-07-25 12:06:52,668 - __main__ - INFO - Detected character at (x: 1026, y: 358) with width: 99 and height: 106
+2024-07-25 12:06:52,668 - __main__ - INFO - Detected character at (x: 1036, y: 365) with width: 80 and height: 92
+2024-07-25 12:06:52,668 - __main__ - INFO - Detected character at (x: 1279, y: 376) with width: 134 and height: 110
+2024-07-25 12:06:52,668 - __main__ - INFO - Detected character at (x: 1427, y: 392) with width: 91 and height: 104
+2024-07-25 12:06:52,668 - __main__ - INFO - Detected character at (x: 1544, y: 401) with width: 67 and height: 105
+2024-07-25 12:06:52,668 - __main__ - INFO - Detected character at (x: 1638, y: 411) with width: 53 and height: 101
+2024-07-25 12:06:52,668 - __main__ - INFO - Detected character at (x: 1711, y: 423) with width: 58 and height: 95
+2024-07-25 12:06:52,679 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:52,681 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:52,685 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:52,694 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:52,730 - __main__ - INFO - Detected character at (x: 1367, y: 201) with width: 50 and height: 77
+2024-07-25 12:06:52,731 - __main__ - INFO - Detected character at (x: 641, y: 330) with width: 86 and height: 107
+2024-07-25 12:06:52,731 - __main__ - INFO - Detected character at (x: 758, y: 338) with width: 72 and height: 106
+2024-07-25 12:06:52,732 - __main__ - INFO - Detected character at (x: 855, y: 344) with width: 60 and height: 106
+2024-07-25 12:06:52,732 - __main__ - INFO - Detected character at (x: 943, y: 350) with width: 63 and height: 107
+2024-07-25 12:06:52,732 - __main__ - INFO - Detected character at (x: 1026, y: 358) with width: 99 and height: 106
+2024-07-25 12:06:52,732 - __main__ - INFO - Detected character at (x: 1279, y: 376) with width: 134 and height: 110
+2024-07-25 12:06:52,732 - __main__ - INFO - Detected character at (x: 1427, y: 392) with width: 91 and height: 104
+2024-07-25 12:06:52,732 - __main__ - INFO - Detected character at (x: 1544, y: 401) with width: 67 and height: 105
+2024-07-25 12:06:52,732 - __main__ - INFO - Detected character at (x: 1638, y: 411) with width: 54 and height: 101
+2024-07-25 12:06:52,732 - __main__ - INFO - Detected character at (x: 1712, y: 423) with width: 57 and height: 96
+2024-07-25 12:06:52,739 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:52,740 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:52,744 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:52,753 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:52,789 - __main__ - INFO - Detected character at (x: 1367, y: 201) with width: 51 and height: 77
+2024-07-25 12:06:52,790 - __main__ - INFO - Detected character at (x: 641, y: 330) with width: 86 and height: 107
+2024-07-25 12:06:52,790 - __main__ - INFO - Detected character at (x: 758, y: 337) with width: 72 and height: 107
+2024-07-25 12:06:52,790 - __main__ - INFO - Detected character at (x: 855, y: 344) with width: 61 and height: 106
+2024-07-25 12:06:52,791 - __main__ - INFO - Detected character at (x: 943, y: 350) with width: 63 and height: 107
+2024-07-25 12:06:52,791 - __main__ - INFO - Detected character at (x: 1026, y: 358) with width: 99 and height: 106
+2024-07-25 12:06:52,791 - __main__ - INFO - Detected character at (x: 1279, y: 376) with width: 134 and height: 110
+2024-07-25 12:06:52,791 - __main__ - INFO - Detected character at (x: 1427, y: 392) with width: 91 and height: 104
+2024-07-25 12:06:52,791 - __main__ - INFO - Detected character at (x: 1544, y: 401) with width: 67 and height: 105
+2024-07-25 12:06:52,791 - __main__ - INFO - Detected character at (x: 1638, y: 411) with width: 58 and height: 101
+2024-07-25 12:06:52,791 - __main__ - INFO - Detected character at (x: 1711, y: 423) with width: 58 and height: 95
+2024-07-25 12:06:52,798 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:52,799 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:52,803 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:52,812 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:52,847 - __main__ - INFO - Detected character at (x: 1367, y: 201) with width: 50 and height: 77
+2024-07-25 12:06:52,848 - __main__ - INFO - Detected character at (x: 641, y: 330) with width: 86 and height: 107
+2024-07-25 12:06:52,849 - __main__ - INFO - Detected character at (x: 758, y: 338) with width: 73 and height: 106
+2024-07-25 12:06:52,849 - __main__ - INFO - Detected character at (x: 855, y: 344) with width: 61 and height: 106
+2024-07-25 12:06:52,849 - __main__ - INFO - Detected character at (x: 943, y: 350) with width: 63 and height: 107
+2024-07-25 12:06:52,849 - __main__ - INFO - Detected character at (x: 1026, y: 358) with width: 99 and height: 106
+2024-07-25 12:06:52,849 - __main__ - INFO - Detected character at (x: 1279, y: 376) with width: 134 and height: 110
+2024-07-25 12:06:52,849 - __main__ - INFO - Detected character at (x: 1427, y: 392) with width: 91 and height: 104
+2024-07-25 12:06:52,849 - __main__ - INFO - Detected character at (x: 1544, y: 401) with width: 67 and height: 105
+2024-07-25 12:06:52,849 - __main__ - INFO - Detected character at (x: 1638, y: 411) with width: 54 and height: 101
+2024-07-25 12:06:52,849 - __main__ - INFO - Detected character at (x: 1711, y: 423) with width: 58 and height: 96
+2024-07-25 12:06:52,856 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:52,857 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:52,861 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:52,870 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:52,905 - __main__ - INFO - Detected character at (x: 1367, y: 201) with width: 50 and height: 77
+2024-07-25 12:06:52,906 - __main__ - INFO - Detected character at (x: 1375, y: 204) with width: 24 and height: 33
+2024-07-25 12:06:52,906 - __main__ - INFO - Detected character at (x: 641, y: 330) with width: 86 and height: 107
+2024-07-25 12:06:52,907 - __main__ - INFO - Detected character at (x: 758, y: 338) with width: 72 and height: 106
+2024-07-25 12:06:52,907 - __main__ - INFO - Detected character at (x: 855, y: 344) with width: 61 and height: 106
+2024-07-25 12:06:52,907 - __main__ - INFO - Detected character at (x: 943, y: 350) with width: 63 and height: 107
+2024-07-25 12:06:52,907 - __main__ - INFO - Detected character at (x: 1026, y: 358) with width: 99 and height: 106
+2024-07-25 12:06:52,907 - __main__ - INFO - Detected character at (x: 1279, y: 376) with width: 134 and height: 110
+2024-07-25 12:06:52,907 - __main__ - INFO - Detected character at (x: 1427, y: 392) with width: 91 and height: 104
+2024-07-25 12:06:52,907 - __main__ - INFO - Detected character at (x: 1544, y: 401) with width: 67 and height: 105
+2024-07-25 12:06:52,907 - __main__ - INFO - Detected character at (x: 1638, y: 411) with width: 54 and height: 101
+2024-07-25 12:06:52,907 - __main__ - INFO - Detected character at (x: 1711, y: 423) with width: 58 and height: 96
+2024-07-25 12:06:52,914 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:52,915 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:52,920 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:52,929 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:52,966 - __main__ - INFO - Detected character at (x: 1367, y: 201) with width: 50 and height: 77
+2024-07-25 12:06:52,967 - __main__ - INFO - Detected character at (x: 641, y: 330) with width: 86 and height: 107
+2024-07-25 12:06:52,967 - __main__ - INFO - Detected character at (x: 758, y: 338) with width: 72 and height: 106
+2024-07-25 12:06:52,967 - __main__ - INFO - Detected character at (x: 855, y: 344) with width: 60 and height: 106
+2024-07-25 12:06:52,967 - __main__ - INFO - Detected character at (x: 943, y: 350) with width: 63 and height: 107
+2024-07-25 12:06:52,968 - __main__ - INFO - Detected character at (x: 1026, y: 358) with width: 99 and height: 106
+2024-07-25 12:06:52,968 - __main__ - INFO - Detected character at (x: 1279, y: 376) with width: 134 and height: 110
+2024-07-25 12:06:52,968 - __main__ - INFO - Detected character at (x: 1427, y: 392) with width: 91 and height: 104
+2024-07-25 12:06:52,968 - __main__ - INFO - Detected character at (x: 1544, y: 401) with width: 67 and height: 105
+2024-07-25 12:06:52,968 - __main__ - INFO - Detected character at (x: 1638, y: 411) with width: 54 and height: 101
+2024-07-25 12:06:52,968 - __main__ - INFO - Detected character at (x: 1711, y: 423) with width: 58 and height: 96
+2024-07-25 12:06:52,974 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:52,976 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:52,980 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:52,990 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:53,027 - __main__ - INFO - Detected character at (x: 1368, y: 201) with width: 49 and height: 64
+2024-07-25 12:06:53,027 - __main__ - INFO - Detected character at (x: 1375, y: 204) with width: 24 and height: 33
+2024-07-25 12:06:53,028 - __main__ - INFO - Detected character at (x: 641, y: 330) with width: 86 and height: 107
+2024-07-25 12:06:53,028 - __main__ - INFO - Detected character at (x: 758, y: 338) with width: 73 and height: 106
+2024-07-25 12:06:53,028 - __main__ - INFO - Detected character at (x: 855, y: 344) with width: 61 and height: 106
+2024-07-25 12:06:53,028 - __main__ - INFO - Detected character at (x: 943, y: 350) with width: 63 and height: 107
+2024-07-25 12:06:53,028 - __main__ - INFO - Detected character at (x: 1026, y: 358) with width: 100 and height: 106
+2024-07-25 12:06:53,028 - __main__ - INFO - Detected character at (x: 1036, y: 365) with width: 80 and height: 92
+2024-07-25 12:06:53,029 - __main__ - INFO - Detected character at (x: 1279, y: 376) with width: 134 and height: 110
+2024-07-25 12:06:53,029 - __main__ - INFO - Detected character at (x: 1427, y: 392) with width: 91 and height: 104
+2024-07-25 12:06:53,029 - __main__ - INFO - Detected character at (x: 1544, y: 401) with width: 67 and height: 105
+2024-07-25 12:06:53,029 - __main__ - INFO - Detected character at (x: 1638, y: 411) with width: 54 and height: 101
+2024-07-25 12:06:53,029 - __main__ - INFO - Detected character at (x: 1711, y: 423) with width: 58 and height: 96
+2024-07-25 12:06:53,035 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:53,037 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:53,042 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:53,050 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:53,086 - __main__ - INFO - Detected character at (x: 1367, y: 200) with width: 50 and height: 78
+2024-07-25 12:06:53,086 - __main__ - INFO - Detected character at (x: 1375, y: 204) with width: 24 and height: 33
+2024-07-25 12:06:53,087 - __main__ - INFO - Detected character at (x: 641, y: 330) with width: 86 and height: 107
+2024-07-25 12:06:53,087 - __main__ - INFO - Detected character at (x: 758, y: 338) with width: 72 and height: 106
+2024-07-25 12:06:53,087 - __main__ - INFO - Detected character at (x: 855, y: 344) with width: 60 and height: 106
+2024-07-25 12:06:53,087 - __main__ - INFO - Detected character at (x: 943, y: 350) with width: 63 and height: 107
+2024-07-25 12:06:53,087 - __main__ - INFO - Detected character at (x: 1025, y: 358) with width: 100 and height: 106
+2024-07-25 12:06:53,088 - __main__ - INFO - Detected character at (x: 1036, y: 365) with width: 79 and height: 92
+2024-07-25 12:06:53,088 - __main__ - INFO - Detected character at (x: 1279, y: 376) with width: 134 and height: 110
+2024-07-25 12:06:53,088 - __main__ - INFO - Detected character at (x: 1427, y: 392) with width: 91 and height: 104
+2024-07-25 12:06:53,088 - __main__ - INFO - Detected character at (x: 1544, y: 401) with width: 67 and height: 105
+2024-07-25 12:06:53,088 - __main__ - INFO - Detected character at (x: 1638, y: 411) with width: 54 and height: 101
+2024-07-25 12:06:53,088 - __main__ - INFO - Detected character at (x: 1711, y: 423) with width: 58 and height: 95
+2024-07-25 12:06:53,095 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:53,096 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:53,101 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:53,110 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:53,145 - __main__ - INFO - Detected character at (x: 1367, y: 201) with width: 51 and height: 77
+2024-07-25 12:06:53,146 - __main__ - INFO - Detected character at (x: 641, y: 330) with width: 86 and height: 107
+2024-07-25 12:06:53,147 - __main__ - INFO - Detected character at (x: 758, y: 338) with width: 72 and height: 106
+2024-07-25 12:06:53,147 - __main__ - INFO - Detected character at (x: 855, y: 344) with width: 60 and height: 106
+2024-07-25 12:06:53,147 - __main__ - INFO - Detected character at (x: 943, y: 350) with width: 63 and height: 107
+2024-07-25 12:06:53,147 - __main__ - INFO - Detected character at (x: 1026, y: 358) with width: 99 and height: 106
+2024-07-25 12:06:53,147 - __main__ - INFO - Detected character at (x: 1279, y: 376) with width: 134 and height: 110
+2024-07-25 12:06:53,147 - __main__ - INFO - Detected character at (x: 1427, y: 392) with width: 91 and height: 104
+2024-07-25 12:06:53,147 - __main__ - INFO - Detected character at (x: 1544, y: 401) with width: 67 and height: 105
+2024-07-25 12:06:53,147 - __main__ - INFO - Detected character at (x: 1638, y: 411) with width: 57 and height: 101
+2024-07-25 12:06:53,147 - __main__ - INFO - Detected character at (x: 1711, y: 423) with width: 58 and height: 96
+2024-07-25 12:06:53,154 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:53,155 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:53,159 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:53,168 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:53,202 - __main__ - INFO - Detected character at (x: 3, y: 0) with width: 867 and height: 568
+2024-07-25 12:06:53,203 - __main__ - INFO - Detected character at (x: 1424, y: 78) with width: 11 and height: 38
+2024-07-25 12:06:53,203 - __main__ - INFO - Detected character at (x: 1408, y: 117) with width: 22 and height: 120
+2024-07-25 12:06:53,203 - __main__ - INFO - Detected character at (x: 1352, y: 259) with width: 50 and height: 63
+2024-07-25 12:06:53,204 - __main__ - INFO - Detected character at (x: 1323, y: 323) with width: 36 and height: 40
+2024-07-25 12:06:53,204 - __main__ - INFO - Detected character at (x: 1251, y: 364) with width: 123 and height: 137
+2024-07-25 12:06:53,204 - __main__ - INFO - Detected character at (x: 1387, y: 408) with width: 93 and height: 104
+2024-07-25 12:06:53,204 - __main__ - INFO - Detected character at (x: 1505, y: 419) with width: 70 and height: 106
+2024-07-25 12:06:53,204 - __main__ - INFO - Detected character at (x: 1601, y: 431) with width: 55 and height: 102
+2024-07-25 12:06:53,204 - __main__ - INFO - Detected character at (x: 557, y: 444) with width: 691 and height: 636
+2024-07-25 12:06:53,204 - __main__ - INFO - Detected character at (x: 1677, y: 445) with width: 60 and height: 97
+2024-07-25 12:06:53,217 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:53,219 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:53,223 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:53,232 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:53,294 - __main__ - INFO - Detected character at (x: 578, y: 321) with width: 89 and height: 108
+2024-07-25 12:06:53,295 - __main__ - INFO - Detected character at (x: 693, y: 332) with width: 75 and height: 107
+2024-07-25 12:06:53,295 - __main__ - INFO - Detected character at (x: 788, y: 342) with width: 61 and height: 107
+2024-07-25 12:06:53,295 - __main__ - INFO - Detected character at (x: 876, y: 351) with width: 63 and height: 108
+2024-07-25 12:06:53,295 - __main__ - INFO - Detected character at (x: 960, y: 363) with width: 100 and height: 106
+2024-07-25 12:06:53,296 - __main__ - INFO - Detected character at (x: 1216, y: 388) with width: 134 and height: 114
+2024-07-25 12:06:53,296 - __main__ - INFO - Detected character at (x: 1362, y: 411) with width: 93 and height: 104
+2024-07-25 12:06:53,296 - __main__ - INFO - Detected character at (x: 1479, y: 423) with width: 72 and height: 107
+2024-07-25 12:06:53,296 - __main__ - INFO - Detected character at (x: 1575, y: 436) with width: 54 and height: 103
+2024-07-25 12:06:53,297 - __main__ - INFO - Detected character at (x: 1651, y: 452) with width: 62 and height: 96
+2024-07-25 12:06:53,299 - __main__ - INFO - Detected character at (x: 1520, y: 587) with width: 175 and height: 53
+2024-07-25 12:06:53,301 - __main__ - INFO - Detected character at (x: 1205, y: 703) with width: 114 and height: 41
+2024-07-25 12:06:53,302 - __main__ - INFO - Detected character at (x: 631, y: 809) with width: 402 and height: 129
+2024-07-25 12:06:53,303 - __main__ - INFO - Detected character at (x: 1778, y: 980) with width: 113 and height: 98
+2024-07-25 12:06:53,309 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:53,310 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:53,316 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:53,325 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:53,366 - __main__ - INFO - Detected character at (x: 579, y: 320) with width: 89 and height: 109
+2024-07-25 12:06:53,366 - __main__ - INFO - Detected character at (x: 694, y: 332) with width: 75 and height: 107
+2024-07-25 12:06:53,366 - __main__ - INFO - Detected character at (x: 789, y: 342) with width: 61 and height: 106
+2024-07-25 12:06:53,367 - __main__ - INFO - Detected character at (x: 877, y: 350) with width: 63 and height: 109
+2024-07-25 12:06:53,367 - __main__ - INFO - Detected character at (x: 961, y: 362) with width: 100 and height: 106
+2024-07-25 12:06:53,367 - __main__ - INFO - Detected character at (x: 1217, y: 387) with width: 135 and height: 115
+2024-07-25 12:06:53,367 - __main__ - INFO - Detected character at (x: 1363, y: 410) with width: 94 and height: 104
+2024-07-25 12:06:53,367 - __main__ - INFO - Detected character at (x: 1481, y: 422) with width: 72 and height: 107
+2024-07-25 12:06:53,367 - __main__ - INFO - Detected character at (x: 1578, y: 435) with width: 54 and height: 103
+2024-07-25 12:06:53,367 - __main__ - INFO - Detected character at (x: 1654, y: 451) with width: 62 and height: 97
+2024-07-25 12:06:53,374 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:53,376 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:53,380 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:53,388 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:53,427 - __main__ - INFO - Detected character at (x: 579, y: 320) with width: 90 and height: 109
+2024-07-25 12:06:53,427 - __main__ - INFO - Detected character at (x: 695, y: 332) with width: 74 and height: 107
+2024-07-25 12:06:53,428 - __main__ - INFO - Detected character at (x: 790, y: 342) with width: 60 and height: 107
+2024-07-25 12:06:53,428 - __main__ - INFO - Detected character at (x: 877, y: 351) with width: 63 and height: 108
+2024-07-25 12:06:53,428 - __main__ - INFO - Detected character at (x: 961, y: 362) with width: 100 and height: 106
+2024-07-25 12:06:53,428 - __main__ - INFO - Detected character at (x: 1217, y: 387) with width: 135 and height: 115
+2024-07-25 12:06:53,428 - __main__ - INFO - Detected character at (x: 1363, y: 410) with width: 94 and height: 104
+2024-07-25 12:06:53,428 - __main__ - INFO - Detected character at (x: 1482, y: 422) with width: 72 and height: 107
+2024-07-25 12:06:53,428 - __main__ - INFO - Detected character at (x: 1578, y: 435) with width: 54 and height: 103
+2024-07-25 12:06:53,429 - __main__ - INFO - Detected character at (x: 1654, y: 451) with width: 62 and height: 97
+2024-07-25 12:06:53,430 - __main__ - INFO - Detected character at (x: 0, y: 704) with width: 364 and height: 217
+2024-07-25 12:06:53,432 - __main__ - INFO - Detected character at (x: 647, y: 999) with width: 57 and height: 34
+2024-07-25 12:06:53,436 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:53,438 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:53,442 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:53,451 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:53,487 - __main__ - INFO - Detected character at (x: 579, y: 320) with width: 89 and height: 109
+2024-07-25 12:06:53,488 - __main__ - INFO - Detected character at (x: 694, y: 332) with width: 75 and height: 107
+2024-07-25 12:06:53,488 - __main__ - INFO - Detected character at (x: 789, y: 342) with width: 61 and height: 107
+2024-07-25 12:06:53,488 - __main__ - INFO - Detected character at (x: 877, y: 351) with width: 63 and height: 108
+2024-07-25 12:06:53,488 - __main__ - INFO - Detected character at (x: 961, y: 362) with width: 100 and height: 106
+2024-07-25 12:06:53,488 - __main__ - INFO - Detected character at (x: 1217, y: 387) with width: 135 and height: 114
+2024-07-25 12:06:53,489 - __main__ - INFO - Detected character at (x: 1363, y: 410) with width: 94 and height: 104
+2024-07-25 12:06:53,489 - __main__ - INFO - Detected character at (x: 1481, y: 422) with width: 73 and height: 107
+2024-07-25 12:06:53,489 - __main__ - INFO - Detected character at (x: 1578, y: 435) with width: 55 and height: 103
+2024-07-25 12:06:53,489 - __main__ - INFO - Detected character at (x: 1654, y: 451) with width: 62 and height: 97
+2024-07-25 12:06:53,492 - __main__ - INFO - Detected character at (x: 640, y: 989) with width: 78 and height: 42
+2024-07-25 12:06:53,495 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:53,497 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:53,501 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:53,510 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:53,547 - __main__ - INFO - Detected character at (x: 579, y: 320) with width: 89 and height: 109
+2024-07-25 12:06:53,547 - __main__ - INFO - Detected character at (x: 694, y: 332) with width: 75 and height: 107
+2024-07-25 12:06:53,547 - __main__ - INFO - Detected character at (x: 789, y: 342) with width: 61 and height: 106
+2024-07-25 12:06:53,547 - __main__ - INFO - Detected character at (x: 877, y: 351) with width: 63 and height: 108
+2024-07-25 12:06:53,548 - __main__ - INFO - Detected character at (x: 961, y: 362) with width: 100 and height: 106
+2024-07-25 12:06:53,548 - __main__ - INFO - Detected character at (x: 1217, y: 388) with width: 135 and height: 114
+2024-07-25 12:06:53,548 - __main__ - INFO - Detected character at (x: 1364, y: 410) with width: 93 and height: 104
+2024-07-25 12:06:53,548 - __main__ - INFO - Detected character at (x: 1482, y: 422) with width: 72 and height: 107
+2024-07-25 12:06:53,548 - __main__ - INFO - Detected character at (x: 1579, y: 435) with width: 54 and height: 103
+2024-07-25 12:06:53,548 - __main__ - INFO - Detected character at (x: 1655, y: 451) with width: 61 and height: 97
+2024-07-25 12:06:53,551 - __main__ - INFO - Detected character at (x: 640, y: 990) with width: 78 and height: 41
+2024-07-25 12:06:53,555 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:53,556 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:53,560 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:53,569 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:53,607 - __main__ - INFO - Detected character at (x: 579, y: 320) with width: 90 and height: 109
+2024-07-25 12:06:53,607 - __main__ - INFO - Detected character at (x: 694, y: 332) with width: 75 and height: 107
+2024-07-25 12:06:53,607 - __main__ - INFO - Detected character at (x: 789, y: 342) with width: 61 and height: 107
+2024-07-25 12:06:53,607 - __main__ - INFO - Detected character at (x: 877, y: 351) with width: 63 and height: 108
+2024-07-25 12:06:53,607 - __main__ - INFO - Detected character at (x: 961, y: 362) with width: 100 and height: 106
+2024-07-25 12:06:53,607 - __main__ - INFO - Detected character at (x: 1217, y: 387) with width: 135 and height: 115
+2024-07-25 12:06:53,608 - __main__ - INFO - Detected character at (x: 1364, y: 410) with width: 93 and height: 104
+2024-07-25 12:06:53,608 - __main__ - INFO - Detected character at (x: 1482, y: 422) with width: 72 and height: 108
+2024-07-25 12:06:53,608 - __main__ - INFO - Detected character at (x: 1579, y: 435) with width: 54 and height: 103
+2024-07-25 12:06:53,608 - __main__ - INFO - Detected character at (x: 1655, y: 451) with width: 61 and height: 97
+2024-07-25 12:06:53,611 - __main__ - INFO - Detected character at (x: 640, y: 990) with width: 78 and height: 41
+2024-07-25 12:06:53,614 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:53,616 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:53,620 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:53,628 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:53,665 - __main__ - INFO - Detected character at (x: 579, y: 320) with width: 90 and height: 109
+2024-07-25 12:06:53,666 - __main__ - INFO - Detected character at (x: 694, y: 332) with width: 76 and height: 107
+2024-07-25 12:06:53,666 - __main__ - INFO - Detected character at (x: 789, y: 342) with width: 62 and height: 107
+2024-07-25 12:06:53,666 - __main__ - INFO - Detected character at (x: 877, y: 351) with width: 63 and height: 108
+2024-07-25 12:06:53,666 - __main__ - INFO - Detected character at (x: 961, y: 362) with width: 100 and height: 106
+2024-07-25 12:06:53,666 - __main__ - INFO - Detected character at (x: 1217, y: 387) with width: 135 and height: 115
+2024-07-25 12:06:53,666 - __main__ - INFO - Detected character at (x: 1364, y: 410) with width: 93 and height: 104
+2024-07-25 12:06:53,667 - __main__ - INFO - Detected character at (x: 1482, y: 422) with width: 72 and height: 108
+2024-07-25 12:06:53,667 - __main__ - INFO - Detected character at (x: 1579, y: 435) with width: 54 and height: 103
+2024-07-25 12:06:53,667 - __main__ - INFO - Detected character at (x: 1655, y: 451) with width: 61 and height: 97
+2024-07-25 12:06:53,673 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:53,675 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:53,679 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:53,687 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:53,725 - __main__ - INFO - Detected character at (x: 579, y: 320) with width: 89 and height: 109
+2024-07-25 12:06:53,725 - __main__ - INFO - Detected character at (x: 694, y: 332) with width: 75 and height: 107
+2024-07-25 12:06:53,725 - __main__ - INFO - Detected character at (x: 789, y: 342) with width: 61 and height: 107
+2024-07-25 12:06:53,725 - __main__ - INFO - Detected character at (x: 877, y: 351) with width: 63 and height: 108
+2024-07-25 12:06:53,725 - __main__ - INFO - Detected character at (x: 961, y: 362) with width: 100 and height: 106
+2024-07-25 12:06:53,726 - __main__ - INFO - Detected character at (x: 1217, y: 387) with width: 135 and height: 115
+2024-07-25 12:06:53,726 - __main__ - INFO - Detected character at (x: 1364, y: 410) with width: 94 and height: 104
+2024-07-25 12:06:53,726 - __main__ - INFO - Detected character at (x: 1482, y: 422) with width: 72 and height: 108
+2024-07-25 12:06:53,726 - __main__ - INFO - Detected character at (x: 1579, y: 435) with width: 54 and height: 103
+2024-07-25 12:06:53,726 - __main__ - INFO - Detected character at (x: 1655, y: 451) with width: 61 and height: 97
+2024-07-25 12:06:53,729 - __main__ - INFO - Detected character at (x: 640, y: 990) with width: 78 and height: 42
+2024-07-25 12:06:53,733 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:53,734 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:53,739 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:53,747 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:53,785 - __main__ - INFO - Detected character at (x: 579, y: 320) with width: 90 and height: 109
+2024-07-25 12:06:53,785 - __main__ - INFO - Detected character at (x: 694, y: 332) with width: 75 and height: 107
+2024-07-25 12:06:53,785 - __main__ - INFO - Detected character at (x: 789, y: 342) with width: 61 and height: 107
+2024-07-25 12:06:53,785 - __main__ - INFO - Detected character at (x: 877, y: 351) with width: 63 and height: 108
+2024-07-25 12:06:53,785 - __main__ - INFO - Detected character at (x: 961, y: 362) with width: 100 and height: 106
+2024-07-25 12:06:53,786 - __main__ - INFO - Detected character at (x: 1217, y: 387) with width: 135 and height: 115
+2024-07-25 12:06:53,786 - __main__ - INFO - Detected character at (x: 1364, y: 410) with width: 93 and height: 104
+2024-07-25 12:06:53,786 - __main__ - INFO - Detected character at (x: 1482, y: 422) with width: 72 and height: 108
+2024-07-25 12:06:53,786 - __main__ - INFO - Detected character at (x: 1579, y: 435) with width: 54 and height: 103
+2024-07-25 12:06:53,786 - __main__ - INFO - Detected character at (x: 1655, y: 451) with width: 61 and height: 97
+2024-07-25 12:06:53,789 - __main__ - INFO - Detected character at (x: 640, y: 990) with width: 71 and height: 41
+2024-07-25 12:06:53,792 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:53,794 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:53,798 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:53,807 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:53,845 - __main__ - INFO - Detected character at (x: 579, y: 320) with width: 90 and height: 109
+2024-07-25 12:06:53,846 - __main__ - INFO - Detected character at (x: 694, y: 332) with width: 75 and height: 107
+2024-07-25 12:06:53,846 - __main__ - INFO - Detected character at (x: 789, y: 342) with width: 62 and height: 107
+2024-07-25 12:06:53,846 - __main__ - INFO - Detected character at (x: 877, y: 351) with width: 63 and height: 108
+2024-07-25 12:06:53,846 - __main__ - INFO - Detected character at (x: 961, y: 362) with width: 100 and height: 106
+2024-07-25 12:06:53,846 - __main__ - INFO - Detected character at (x: 1217, y: 387) with width: 135 and height: 115
+2024-07-25 12:06:53,847 - __main__ - INFO - Detected character at (x: 1364, y: 410) with width: 93 and height: 104
+2024-07-25 12:06:53,847 - __main__ - INFO - Detected character at (x: 1482, y: 422) with width: 72 and height: 108
+2024-07-25 12:06:53,847 - __main__ - INFO - Detected character at (x: 1579, y: 435) with width: 54 and height: 104
+2024-07-25 12:06:53,847 - __main__ - INFO - Detected character at (x: 1655, y: 451) with width: 61 and height: 97
+2024-07-25 12:06:53,850 - __main__ - INFO - Detected character at (x: 640, y: 990) with width: 78 and height: 42
+2024-07-25 12:06:53,853 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:53,855 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:53,859 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:53,868 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:53,908 - __main__ - INFO - Detected character at (x: 579, y: 320) with width: 89 and height: 109
+2024-07-25 12:06:53,909 - __main__ - INFO - Detected character at (x: 694, y: 332) with width: 75 and height: 107
+2024-07-25 12:06:53,909 - __main__ - INFO - Detected character at (x: 789, y: 342) with width: 61 and height: 107
+2024-07-25 12:06:53,909 - __main__ - INFO - Detected character at (x: 877, y: 351) with width: 63 and height: 108
+2024-07-25 12:06:53,909 - __main__ - INFO - Detected character at (x: 961, y: 362) with width: 100 and height: 106
+2024-07-25 12:06:53,909 - __main__ - INFO - Detected character at (x: 1217, y: 387) with width: 135 and height: 114
+2024-07-25 12:06:53,909 - __main__ - INFO - Detected character at (x: 1364, y: 410) with width: 93 and height: 104
+2024-07-25 12:06:53,910 - __main__ - INFO - Detected character at (x: 1482, y: 422) with width: 72 and height: 108
+2024-07-25 12:06:53,910 - __main__ - INFO - Detected character at (x: 1579, y: 435) with width: 54 and height: 103
+2024-07-25 12:06:53,910 - __main__ - INFO - Detected character at (x: 1655, y: 451) with width: 61 and height: 97
+2024-07-25 12:06:53,913 - __main__ - INFO - Detected character at (x: 640, y: 990) with width: 78 and height: 41
+2024-07-25 12:06:53,916 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:53,918 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:53,922 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:53,931 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:53,968 - __main__ - INFO - Detected character at (x: 583, y: 324) with width: 88 and height: 109
+2024-07-25 12:06:53,968 - __main__ - INFO - Detected character at (x: 697, y: 335) with width: 75 and height: 108
+2024-07-25 12:06:53,968 - __main__ - INFO - Detected character at (x: 793, y: 346) with width: 60 and height: 106
+2024-07-25 12:06:53,968 - __main__ - INFO - Detected character at (x: 880, y: 354) with width: 63 and height: 108
+2024-07-25 12:06:53,969 - __main__ - INFO - Detected character at (x: 964, y: 366) with width: 99 and height: 106
+2024-07-25 12:06:53,969 - __main__ - INFO - Detected character at (x: 1220, y: 391) with width: 135 and height: 113
+2024-07-25 12:06:53,969 - __main__ - INFO - Detected character at (x: 1367, y: 413) with width: 94 and height: 104
+2024-07-25 12:06:53,969 - __main__ - INFO - Detected character at (x: 1485, y: 425) with width: 72 and height: 107
+2024-07-25 12:06:53,969 - __main__ - INFO - Detected character at (x: 1582, y: 438) with width: 54 and height: 103
+2024-07-25 12:06:53,969 - __main__ - INFO - Detected character at (x: 1658, y: 453) with width: 61 and height: 97
+2024-07-25 12:06:53,972 - __main__ - INFO - Detected character at (x: 645, y: 994) with width: 78 and height: 42
+2024-07-25 12:06:53,975 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:53,977 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:53,981 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:53,990 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:54,026 - __main__ - INFO - Detected character at (x: 577, y: 345) with width: 88 and height: 109
+2024-07-25 12:06:54,027 - __main__ - INFO - Detected character at (x: 691, y: 358) with width: 75 and height: 107
+2024-07-25 12:06:54,027 - __main__ - INFO - Detected character at (x: 786, y: 368) with width: 61 and height: 107
+2024-07-25 12:06:54,027 - __main__ - INFO - Detected character at (x: 874, y: 377) with width: 62 and height: 108
+2024-07-25 12:06:54,027 - __main__ - INFO - Detected character at (x: 957, y: 389) with width: 100 and height: 106
+2024-07-25 12:06:54,027 - __main__ - INFO - Detected character at (x: 1213, y: 415) with width: 135 and height: 114
+2024-07-25 12:06:54,028 - __main__ - INFO - Detected character at (x: 1360, y: 437) with width: 94 and height: 105
+2024-07-25 12:06:54,028 - __main__ - INFO - Detected character at (x: 1478, y: 449) with width: 72 and height: 108
+2024-07-25 12:06:54,028 - __main__ - INFO - Detected character at (x: 1574, y: 462) with width: 56 and height: 104
+2024-07-25 12:06:54,028 - __main__ - INFO - Detected character at (x: 1651, y: 478) with width: 63 and height: 97
+2024-07-25 12:06:54,031 - __main__ - INFO - Detected character at (x: 638, y: 1011) with width: 77 and height: 42
+2024-07-25 12:06:54,034 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:54,036 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:54,040 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:54,049 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:54,087 - __main__ - INFO - Detected character at (x: 577, y: 343) with width: 90 and height: 109
+2024-07-25 12:06:54,087 - __main__ - INFO - Detected character at (x: 692, y: 355) with width: 75 and height: 107
+2024-07-25 12:06:54,087 - __main__ - INFO - Detected character at (x: 787, y: 365) with width: 61 and height: 107
+2024-07-25 12:06:54,087 - __main__ - INFO - Detected character at (x: 875, y: 375) with width: 62 and height: 108
+2024-07-25 12:06:54,087 - __main__ - INFO - Detected character at (x: 958, y: 387) with width: 101 and height: 105
+2024-07-25 12:06:54,087 - __main__ - INFO - Detected character at (x: 1215, y: 412) with width: 135 and height: 114
+2024-07-25 12:06:54,088 - __main__ - INFO - Detected character at (x: 1361, y: 435) with width: 94 and height: 104
+2024-07-25 12:06:54,088 - __main__ - INFO - Detected character at (x: 1479, y: 447) with width: 72 and height: 107
+2024-07-25 12:06:54,088 - __main__ - INFO - Detected character at (x: 1576, y: 460) with width: 55 and height: 103
+2024-07-25 12:06:54,088 - __main__ - INFO - Detected character at (x: 1652, y: 476) with width: 62 and height: 96
+2024-07-25 12:06:54,091 - __main__ - INFO - Detected character at (x: 637, y: 1009) with width: 77 and height: 42
+2024-07-25 12:06:54,095 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:54,096 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:54,100 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:54,109 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:54,147 - __main__ - INFO - Detected character at (x: 577, y: 344) with width: 89 and height: 109
+2024-07-25 12:06:54,148 - __main__ - INFO - Detected character at (x: 692, y: 356) with width: 75 and height: 107
+2024-07-25 12:06:54,148 - __main__ - INFO - Detected character at (x: 787, y: 366) with width: 60 and height: 107
+2024-07-25 12:06:54,148 - __main__ - INFO - Detected character at (x: 874, y: 375) with width: 63 and height: 109
+2024-07-25 12:06:54,148 - __main__ - INFO - Detected character at (x: 958, y: 387) with width: 100 and height: 107
+2024-07-25 12:06:54,148 - __main__ - INFO - Detected character at (x: 1214, y: 413) with width: 135 and height: 114
+2024-07-25 12:06:54,148 - __main__ - INFO - Detected character at (x: 1360, y: 436) with width: 95 and height: 104
+2024-07-25 12:06:54,149 - __main__ - INFO - Detected character at (x: 1479, y: 447) with width: 72 and height: 108
+2024-07-25 12:06:54,149 - __main__ - INFO - Detected character at (x: 1576, y: 461) with width: 54 and height: 103
+2024-07-25 12:06:54,149 - __main__ - INFO - Detected character at (x: 1651, y: 476) with width: 63 and height: 98
+2024-07-25 12:06:54,152 - __main__ - INFO - Detected character at (x: 639, y: 1011) with width: 76 and height: 42
+2024-07-25 12:06:54,155 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:54,156 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:54,161 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:54,169 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:54,207 - __main__ - INFO - Detected character at (x: 581, y: 375) with width: 87 and height: 108
+2024-07-25 12:06:54,207 - __main__ - INFO - Detected character at (x: 696, y: 384) with width: 73 and height: 108
+2024-07-25 12:06:54,208 - __main__ - INFO - Detected character at (x: 792, y: 393) with width: 59 and height: 107
+2024-07-25 12:06:54,208 - __main__ - INFO - Detected character at (x: 879, y: 400) with width: 62 and height: 108
+2024-07-25 12:06:54,208 - __main__ - INFO - Detected character at (x: 962, y: 410) with width: 99 and height: 106
+2024-07-25 12:06:54,208 - __main__ - INFO - Detected character at (x: 1216, y: 431) with width: 136 and height: 112
+2024-07-25 12:06:54,208 - __main__ - INFO - Detected character at (x: 1365, y: 449) with width: 93 and height: 104
+2024-07-25 12:06:54,208 - __main__ - INFO - Detected character at (x: 1484, y: 458) with width: 71 and height: 107
+2024-07-25 12:06:54,208 - __main__ - INFO - Detected character at (x: 1581, y: 469) with width: 54 and height: 103
+2024-07-25 12:06:54,208 - __main__ - INFO - Detected character at (x: 1657, y: 482) with width: 60 and height: 97
+2024-07-25 12:06:54,211 - __main__ - INFO - Detected character at (x: 658, y: 1040) with width: 76 and height: 38
+2024-07-25 12:06:54,214 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:54,216 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:54,220 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:54,229 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:54,269 - __main__ - INFO - Detected character at (x: 600, y: 383) with width: 85 and height: 107
+2024-07-25 12:06:54,269 - __main__ - INFO - Detected character at (x: 716, y: 390) with width: 71 and height: 106
+2024-07-25 12:06:54,269 - __main__ - INFO - Detected character at (x: 812, y: 397) with width: 60 and height: 105
+2024-07-25 12:06:54,269 - __main__ - INFO - Detected character at (x: 900, y: 402) with width: 62 and height: 107
+2024-07-25 12:06:54,269 - __main__ - INFO - Detected character at (x: 982, y: 409) with width: 99 and height: 107
+2024-07-25 12:06:54,270 - __main__ - INFO - Detected character at (x: 1237, y: 426) with width: 135 and height: 110
+2024-07-25 12:06:54,270 - __main__ - INFO - Detected character at (x: 1385, y: 440) with width: 93 and height: 104
+2024-07-25 12:06:54,270 - __main__ - INFO - Detected character at (x: 1505, y: 448) with width: 69 and height: 105
+2024-07-25 12:06:54,270 - __main__ - INFO - Detected character at (x: 1601, y: 457) with width: 54 and height: 101
+2024-07-25 12:06:54,270 - __main__ - INFO - Detected character at (x: 1676, y: 467) with width: 59 and height: 96
+2024-07-25 12:06:54,273 - __main__ - INFO - Detected character at (x: 687, y: 1047) with width: 56 and height: 33
+2024-07-25 12:06:54,276 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:54,278 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:54,282 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:54,291 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:54,330 - __main__ - INFO - Detected character at (x: 601, y: 383) with width: 85 and height: 106
+2024-07-25 12:06:54,330 - __main__ - INFO - Detected character at (x: 717, y: 390) with width: 71 and height: 106
+2024-07-25 12:06:54,330 - __main__ - INFO - Detected character at (x: 813, y: 396) with width: 60 and height: 106
+2024-07-25 12:06:54,331 - __main__ - INFO - Detected character at (x: 901, y: 401) with width: 62 and height: 107
+2024-07-25 12:06:54,331 - __main__ - INFO - Detected character at (x: 983, y: 408) with width: 99 and height: 106
+2024-07-25 12:06:54,331 - __main__ - INFO - Detected character at (x: 1237, y: 423) with width: 136 and height: 110
+2024-07-25 12:06:54,331 - __main__ - INFO - Detected character at (x: 1387, y: 437) with width: 93 and height: 104
+2024-07-25 12:06:54,331 - __main__ - INFO - Detected character at (x: 1506, y: 445) with width: 69 and height: 105
+2024-07-25 12:06:54,331 - __main__ - INFO - Detected character at (x: 1603, y: 453) with width: 53 and height: 101
+2024-07-25 12:06:54,331 - __main__ - INFO - Detected character at (x: 1677, y: 463) with width: 58 and height: 97
+2024-07-25 12:06:54,334 - __main__ - INFO - Detected character at (x: 688, y: 1045) with width: 58 and height: 35
+2024-07-25 12:06:54,337 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:54,339 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:54,343 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:54,352 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:54,393 - __main__ - INFO - Detected character at (x: 604, y: 382) with width: 84 and height: 107
+2024-07-25 12:06:54,394 - __main__ - INFO - Detected character at (x: 720, y: 389) with width: 71 and height: 105
+2024-07-25 12:06:54,394 - __main__ - INFO - Detected character at (x: 817, y: 394) with width: 60 and height: 105
+2024-07-25 12:06:54,394 - __main__ - INFO - Detected character at (x: 905, y: 399) with width: 63 and height: 106
+2024-07-25 12:06:54,394 - __main__ - INFO - Detected character at (x: 986, y: 405) with width: 100 and height: 106
+2024-07-25 12:06:54,394 - __main__ - INFO - Detected character at (x: 1241, y: 419) with width: 135 and height: 109
+2024-07-25 12:06:54,394 - __main__ - INFO - Detected character at (x: 1390, y: 432) with width: 93 and height: 103
+2024-07-25 12:06:54,394 - __main__ - INFO - Detected character at (x: 1510, y: 439) with width: 68 and height: 104
+2024-07-25 12:06:54,394 - __main__ - INFO - Detected character at (x: 1606, y: 446) with width: 53 and height: 101
+2024-07-25 12:06:54,394 - __main__ - INFO - Detected character at (x: 1680, y: 456) with width: 58 and height: 96
+2024-07-25 12:06:54,398 - __main__ - INFO - Detected character at (x: 697, y: 1045) with width: 60 and height: 35
+2024-07-25 12:06:54,401 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:54,402 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:54,406 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:54,417 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:54,455 - __main__ - INFO - Detected character at (x: 617, y: 380) with width: 83 and height: 105
+2024-07-25 12:06:54,455 - __main__ - INFO - Detected character at (x: 734, y: 384) with width: 69 and height: 105
+2024-07-25 12:06:54,455 - __main__ - INFO - Detected character at (x: 830, y: 388) with width: 61 and height: 104
+2024-07-25 12:06:54,456 - __main__ - INFO - Detected character at (x: 919, y: 391) with width: 62 and height: 105
+2024-07-25 12:06:54,456 - __main__ - INFO - Detected character at (x: 1000, y: 395) with width: 99 and height: 106
+2024-07-25 12:06:54,456 - __main__ - INFO - Detected character at (x: 1253, y: 406) with width: 135 and height: 107
+2024-07-25 12:06:54,456 - __main__ - INFO - Detected character at (x: 1403, y: 416) with width: 92 and height: 103
+2024-07-25 12:06:54,456 - __main__ - INFO - Detected character at (x: 1523, y: 421) with width: 68 and height: 103
+2024-07-25 12:06:54,456 - __main__ - INFO - Detected character at (x: 1619, y: 428) with width: 53 and height: 99
+2024-07-25 12:06:54,456 - __main__ - INFO - Detected character at (x: 1692, y: 435) with width: 57 and height: 96
+2024-07-25 12:06:54,459 - __main__ - INFO - Detected character at (x: 720, y: 1043) with width: 80 and height: 37
+2024-07-25 12:06:54,462 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:54,464 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:54,468 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:54,477 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:54,514 - __main__ - INFO - Detected character at (x: 641, y: 387) with width: 82 and height: 104
+2024-07-25 12:06:54,515 - __main__ - INFO - Detected character at (x: 758, y: 389) with width: 68 and height: 103
+2024-07-25 12:06:54,515 - __main__ - INFO - Detected character at (x: 856, y: 390) with width: 60 and height: 104
+2024-07-25 12:06:54,515 - __main__ - INFO - Detected character at (x: 945, y: 392) with width: 62 and height: 104
+2024-07-25 12:06:54,515 - __main__ - INFO - Detected character at (x: 1025, y: 394) with width: 98 and height: 106
+2024-07-25 12:06:54,515 - __main__ - INFO - Detected character at (x: 1276, y: 400) with width: 134 and height: 106
+2024-07-25 12:06:54,515 - __main__ - INFO - Detected character at (x: 1427, y: 406) with width: 92 and height: 103
+2024-07-25 12:06:54,515 - __main__ - INFO - Detected character at (x: 1547, y: 410) with width: 67 and height: 102
+2024-07-25 12:06:54,515 - __main__ - INFO - Detected character at (x: 1642, y: 414) with width: 53 and height: 99
+2024-07-25 12:06:54,515 - __main__ - INFO - Detected character at (x: 1713, y: 419) with width: 55 and height: 97
+2024-07-25 12:06:54,519 - __main__ - INFO - Detected character at (x: 755, y: 1049) with width: 58 and height: 31
+2024-07-25 12:06:54,521 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:54,523 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:54,527 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:54,536 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:54,575 - __main__ - INFO - Detected character at (x: 643, y: 392) with width: 82 and height: 104
+2024-07-25 12:06:54,575 - __main__ - INFO - Detected character at (x: 761, y: 393) with width: 67 and height: 104
+2024-07-25 12:06:54,575 - __main__ - INFO - Detected character at (x: 858, y: 394) with width: 61 and height: 104
+2024-07-25 12:06:54,575 - __main__ - INFO - Detected character at (x: 946, y: 395) with width: 63 and height: 105
+2024-07-25 12:06:54,575 - __main__ - INFO - Detected character at (x: 1027, y: 397) with width: 99 and height: 105
+2024-07-25 12:06:54,575 - __main__ - INFO - Detected character at (x: 1278, y: 402) with width: 134 and height: 105
+2024-07-25 12:06:54,575 - __main__ - INFO - Detected character at (x: 1037, y: 404) with width: 79 and height: 92
+2024-07-25 12:06:54,575 - __main__ - INFO - Detected character at (x: 1429, y: 407) with width: 91 and height: 103
+2024-07-25 12:06:54,575 - __main__ - INFO - Detected character at (x: 1549, y: 411) with width: 67 and height: 101
+2024-07-25 12:06:54,575 - __main__ - INFO - Detected character at (x: 1643, y: 414) with width: 53 and height: 99
+2024-07-25 12:06:54,576 - __main__ - INFO - Detected character at (x: 1715, y: 419) with width: 55 and height: 97
+2024-07-25 12:06:54,582 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:54,584 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:54,588 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:54,596 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:54,636 - __main__ - INFO - Detected character at (x: 643, y: 393) with width: 82 and height: 103
+2024-07-25 12:06:54,636 - __main__ - INFO - Detected character at (x: 761, y: 394) with width: 67 and height: 104
+2024-07-25 12:06:54,636 - __main__ - INFO - Detected character at (x: 858, y: 395) with width: 61 and height: 104
+2024-07-25 12:06:54,636 - __main__ - INFO - Detected character at (x: 947, y: 396) with width: 62 and height: 105
+2024-07-25 12:06:54,636 - __main__ - INFO - Detected character at (x: 1027, y: 398) with width: 99 and height: 105
+2024-07-25 12:06:54,636 - __main__ - INFO - Detected character at (x: 1278, y: 403) with width: 134 and height: 105
+2024-07-25 12:06:54,636 - __main__ - INFO - Detected character at (x: 1429, y: 408) with width: 91 and height: 103
+2024-07-25 12:06:54,636 - __main__ - INFO - Detected character at (x: 1549, y: 412) with width: 67 and height: 101
+2024-07-25 12:06:54,636 - __main__ - INFO - Detected character at (x: 1644, y: 415) with width: 53 and height: 98
+2024-07-25 12:06:54,637 - __main__ - INFO - Detected character at (x: 1715, y: 420) with width: 55 and height: 96
+2024-07-25 12:06:54,643 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:54,645 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:54,649 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:54,658 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:54,695 - __main__ - INFO - Detected character at (x: 647, y: 387) with width: 81 and height: 103
+2024-07-25 12:06:54,696 - __main__ - INFO - Detected character at (x: 861, y: 388) with width: 61 and height: 104
+2024-07-25 12:06:54,696 - __main__ - INFO - Detected character at (x: 765, y: 388) with width: 66 and height: 103
+2024-07-25 12:06:54,696 - __main__ - INFO - Detected character at (x: 1030, y: 389) with width: 99 and height: 106
+2024-07-25 12:06:54,696 - __main__ - INFO - Detected character at (x: 950, y: 389) with width: 63 and height: 104
+2024-07-25 12:06:54,696 - __main__ - INFO - Detected character at (x: 1281, y: 394) with width: 134 and height: 104
+2024-07-25 12:06:54,696 - __main__ - INFO - Detected character at (x: 1432, y: 398) with width: 91 and height: 103
+2024-07-25 12:06:54,696 - __main__ - INFO - Detected character at (x: 1552, y: 401) with width: 67 and height: 101
+2024-07-25 12:06:54,696 - __main__ - INFO - Detected character at (x: 1647, y: 405) with width: 52 and height: 97
+2024-07-25 12:06:54,696 - __main__ - INFO - Detected character at (x: 1718, y: 409) with width: 54 and height: 96
+2024-07-25 12:06:54,700 - __main__ - INFO - Detected character at (x: 764, y: 1047) with width: 65 and height: 33
+2024-07-25 12:06:54,703 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:54,704 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:54,708 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:54,717 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:54,761 - __main__ - INFO - Detected character at (x: 767, y: 385) with width: 65 and height: 103
+2024-07-25 12:06:54,761 - __main__ - INFO - Detected character at (x: 1032, y: 386) with width: 99 and height: 105
+2024-07-25 12:06:54,761 - __main__ - INFO - Detected character at (x: 953, y: 386) with width: 62 and height: 104
+2024-07-25 12:06:54,761 - __main__ - INFO - Detected character at (x: 864, y: 386) with width: 61 and height: 103
+2024-07-25 12:06:54,761 - __main__ - INFO - Detected character at (x: 649, y: 386) with width: 80 and height: 103
+2024-07-25 12:06:54,761 - __main__ - INFO - Detected character at (x: 1283, y: 389) with width: 134 and height: 104
+2024-07-25 12:06:54,762 - __main__ - INFO - Detected character at (x: 1434, y: 392) with width: 91 and height: 103
+2024-07-25 12:06:54,762 - __main__ - INFO - Detected character at (x: 1554, y: 395) with width: 67 and height: 100
+2024-07-25 12:06:54,762 - __main__ - INFO - Detected character at (x: 1648, y: 398) with width: 53 and height: 98
+2024-07-25 12:06:54,762 - __main__ - INFO - Detected character at (x: 1719, y: 401) with width: 55 and height: 97
+2024-07-25 12:06:54,765 - __main__ - INFO - Detected character at (x: 771, y: 1047) with width: 65 and height: 33
+2024-07-25 12:06:54,768 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:54,769 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:54,774 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:54,782 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:54,825 - __main__ - INFO - Detected character at (x: 1042, y: 394) with width: 99 and height: 106
+2024-07-25 12:06:54,825 - __main__ - INFO - Detected character at (x: 1292, y: 396) with width: 134 and height: 103
+2024-07-25 12:06:54,825 - __main__ - INFO - Detected character at (x: 963, y: 396) with width: 63 and height: 103
+2024-07-25 12:06:54,825 - __main__ - INFO - Detected character at (x: 874, y: 396) with width: 61 and height: 104
+2024-07-25 12:06:54,825 - __main__ - INFO - Detected character at (x: 776, y: 396) with width: 66 and height: 104
+2024-07-25 12:06:54,825 - __main__ - INFO - Detected character at (x: 1443, y: 397) with width: 92 and height: 103
+2024-07-25 12:06:54,825 - __main__ - INFO - Detected character at (x: 658, y: 397) with width: 81 and height: 104
+2024-07-25 12:06:54,826 - __main__ - INFO - Detected character at (x: 1563, y: 399) with width: 67 and height: 101
+2024-07-25 12:06:54,826 - __main__ - INFO - Detected character at (x: 1656, y: 401) with width: 53 and height: 98
+2024-07-25 12:06:54,826 - __main__ - INFO - Detected character at (x: 1728, y: 404) with width: 54 and height: 96
+2024-07-25 12:06:54,832 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:54,833 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:54,837 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:54,847 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:54,885 - __main__ - INFO - Detected character at (x: 1446, y: 402) with width: 91 and height: 102
+2024-07-25 12:06:54,886 - __main__ - INFO - Detected character at (x: 1295, y: 402) with width: 133 and height: 103
+2024-07-25 12:06:54,886 - __main__ - INFO - Detected character at (x: 1566, y: 403) with width: 68 and height: 100
+2024-07-25 12:06:54,886 - __main__ - INFO - Detected character at (x: 1045, y: 403) with width: 99 and height: 106
+2024-07-25 12:06:54,886 - __main__ - INFO - Detected character at (x: 1659, y: 404) with width: 53 and height: 98
+2024-07-25 12:06:54,886 - __main__ - INFO - Detected character at (x: 1731, y: 405) with width: 54 and height: 97
+2024-07-25 12:06:54,886 - __main__ - INFO - Detected character at (x: 966, y: 405) with width: 62 and height: 104
+2024-07-25 12:06:54,886 - __main__ - INFO - Detected character at (x: 876, y: 407) with width: 62 and height: 103
+2024-07-25 12:06:54,886 - __main__ - INFO - Detected character at (x: 779, y: 408) with width: 66 and height: 103
+2024-07-25 12:06:54,886 - __main__ - INFO - Detected character at (x: 661, y: 410) with width: 82 and height: 104
+2024-07-25 12:06:54,893 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:54,894 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:54,898 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:54,906 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:54,945 - __main__ - INFO - Detected character at (x: 1445, y: 396) with width: 91 and height: 103
+2024-07-25 12:06:54,946 - __main__ - INFO - Detected character at (x: 1563, y: 397) with width: 69 and height: 100
+2024-07-25 12:06:54,946 - __main__ - INFO - Detected character at (x: 1293, y: 397) with width: 134 and height: 103
+2024-07-25 12:06:54,946 - __main__ - INFO - Detected character at (x: 1657, y: 398) with width: 54 and height: 98
+2024-07-25 12:06:54,946 - __main__ - INFO - Detected character at (x: 1044, y: 398) with width: 99 and height: 106
+2024-07-25 12:06:54,946 - __main__ - INFO - Detected character at (x: 1729, y: 399) with width: 55 and height: 97
+2024-07-25 12:06:54,946 - __main__ - INFO - Detected character at (x: 964, y: 401) with width: 63 and height: 103
+2024-07-25 12:06:54,946 - __main__ - INFO - Detected character at (x: 875, y: 403) with width: 62 and height: 103
+2024-07-25 12:06:54,946 - __main__ - INFO - Detected character at (x: 777, y: 403) with width: 66 and height: 104
+2024-07-25 12:06:54,946 - __main__ - INFO - Detected character at (x: 659, y: 405) with width: 82 and height: 105
+2024-07-25 12:06:54,952 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:54,954 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:54,958 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:54,966 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:55,004 - __main__ - INFO - Detected character at (x: 1445, y: 390) with width: 91 and height: 102
+2024-07-25 12:06:55,004 - __main__ - INFO - Detected character at (x: 1293, y: 390) with width: 133 and height: 103
+2024-07-25 12:06:55,005 - __main__ - INFO - Detected character at (x: 1657, y: 391) with width: 54 and height: 98
+2024-07-25 12:06:55,005 - __main__ - INFO - Detected character at (x: 1563, y: 391) with width: 69 and height: 99
+2024-07-25 12:06:55,005 - __main__ - INFO - Detected character at (x: 1729, y: 392) with width: 55 and height: 97
+2024-07-25 12:06:55,005 - __main__ - INFO - Detected character at (x: 1044, y: 393) with width: 99 and height: 105
+2024-07-25 12:06:55,005 - __main__ - INFO - Detected character at (x: 964, y: 396) with width: 64 and height: 103
+2024-07-25 12:06:55,005 - __main__ - INFO - Detected character at (x: 875, y: 398) with width: 62 and height: 103
+2024-07-25 12:06:55,005 - __main__ - INFO - Detected character at (x: 777, y: 398) with width: 67 and height: 104
+2024-07-25 12:06:55,005 - __main__ - INFO - Detected character at (x: 659, y: 401) with width: 82 and height: 104
+2024-07-25 12:06:55,012 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:55,013 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:55,017 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:55,025 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:55,063 - __main__ - INFO - Detected character at (x: 1444, y: 383) with width: 91 and height: 103
+2024-07-25 12:06:55,063 - __main__ - INFO - Detected character at (x: 1656, y: 384) with width: 54 and height: 98
+2024-07-25 12:06:55,063 - __main__ - INFO - Detected character at (x: 1562, y: 384) with width: 69 and height: 100
+2024-07-25 12:06:55,063 - __main__ - INFO - Detected character at (x: 1292, y: 384) with width: 133 and height: 104
+2024-07-25 12:06:55,063 - __main__ - INFO - Detected character at (x: 1728, y: 385) with width: 55 and height: 97
+2024-07-25 12:06:55,064 - __main__ - INFO - Detected character at (x: 1043, y: 387) with width: 99 and height: 106
+2024-07-25 12:06:55,064 - __main__ - INFO - Detected character at (x: 963, y: 390) with width: 64 and height: 104
+2024-07-25 12:06:55,064 - __main__ - INFO - Detected character at (x: 873, y: 393) with width: 63 and height: 103
+2024-07-25 12:06:55,064 - __main__ - INFO - Detected character at (x: 777, y: 394) with width: 66 and height: 104
+2024-07-25 12:06:55,064 - __main__ - INFO - Detected character at (x: 658, y: 397) with width: 82 and height: 104
+2024-07-25 12:06:55,070 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:55,072 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:55,076 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:55,084 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:55,122 - __main__ - INFO - Detected character at (x: 1721, y: 379) with width: 55 and height: 97
+2024-07-25 12:06:55,122 - __main__ - INFO - Detected character at (x: 1649, y: 379) with width: 54 and height: 98
+2024-07-25 12:06:55,122 - __main__ - INFO - Detected character at (x: 1555, y: 379) with width: 69 and height: 100
+2024-07-25 12:06:55,122 - __main__ - INFO - Detected character at (x: 1436, y: 379) with width: 91 and height: 102
+2024-07-25 12:06:55,122 - __main__ - INFO - Detected character at (x: 1284, y: 380) with width: 133 and height: 103
+2024-07-25 12:06:55,122 - __main__ - INFO - Detected character at (x: 1035, y: 384) with width: 99 and height: 105
+2024-07-25 12:06:55,122 - __main__ - INFO - Detected character at (x: 955, y: 387) with width: 64 and height: 104
+2024-07-25 12:06:55,122 - __main__ - INFO - Detected character at (x: 865, y: 390) with width: 64 and height: 103
+2024-07-25 12:06:55,122 - __main__ - INFO - Detected character at (x: 769, y: 391) with width: 66 and height: 104
+2024-07-25 12:06:55,122 - __main__ - INFO - Detected character at (x: 651, y: 394) with width: 82 and height: 105
+2024-07-25 12:06:55,129 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:55,130 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:55,134 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:55,142 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:55,180 - __main__ - INFO - Detected character at (x: 1648, y: 375) with width: 55 and height: 98
+2024-07-25 12:06:55,181 - __main__ - INFO - Detected character at (x: 1554, y: 375) with width: 69 and height: 100
+2024-07-25 12:06:55,181 - __main__ - INFO - Detected character at (x: 1435, y: 375) with width: 92 and height: 102
+2024-07-25 12:06:55,181 - __main__ - INFO - Detected character at (x: 1720, y: 376) with width: 56 and height: 96
+2024-07-25 12:06:55,181 - __main__ - INFO - Detected character at (x: 1283, y: 376) with width: 133 and height: 104
+2024-07-25 12:06:55,181 - __main__ - INFO - Detected character at (x: 1034, y: 380) with width: 98 and height: 106
+2024-07-25 12:06:55,181 - __main__ - INFO - Detected character at (x: 954, y: 384) with width: 64 and height: 104
+2024-07-25 12:06:55,181 - __main__ - INFO - Detected character at (x: 865, y: 387) with width: 63 and height: 103
+2024-07-25 12:06:55,181 - __main__ - INFO - Detected character at (x: 768, y: 388) with width: 67 and height: 104
+2024-07-25 12:06:55,181 - __main__ - INFO - Detected character at (x: 649, y: 391) with width: 83 and height: 105
+2024-07-25 12:06:55,188 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:55,189 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:55,193 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:55,202 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:55,238 - __main__ - INFO - Detected character at (x: 1718, y: 370) with width: 56 and height: 97
+2024-07-25 12:06:55,239 - __main__ - INFO - Detected character at (x: 1646, y: 370) with width: 55 and height: 97
+2024-07-25 12:06:55,239 - __main__ - INFO - Detected character at (x: 1552, y: 370) with width: 70 and height: 100
+2024-07-25 12:06:55,239 - __main__ - INFO - Detected character at (x: 1433, y: 370) with width: 91 and height: 102
+2024-07-25 12:06:55,239 - __main__ - INFO - Detected character at (x: 1281, y: 371) with width: 133 and height: 104
+2024-07-25 12:06:55,239 - __main__ - INFO - Detected character at (x: 1032, y: 376) with width: 98 and height: 106
+2024-07-25 12:06:55,239 - __main__ - INFO - Detected character at (x: 951, y: 380) with width: 65 and height: 104
+2024-07-25 12:06:55,239 - __main__ - INFO - Detected character at (x: 863, y: 384) with width: 62 and height: 102
+2024-07-25 12:06:55,239 - __main__ - INFO - Detected character at (x: 766, y: 385) with width: 67 and height: 104
+2024-07-25 12:06:55,239 - __main__ - INFO - Detected character at (x: 647, y: 388) with width: 83 and height: 105
+2024-07-25 12:06:55,243 - __main__ - INFO - Detected character at (x: 790, y: 1046) with width: 80 and height: 32
+2024-07-25 12:06:55,245 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:55,247 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:55,251 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:55,259 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:55,295 - __main__ - INFO - Detected character at (x: 1702, y: 343) with width: 57 and height: 97
+2024-07-25 12:06:55,295 - __main__ - INFO - Detected character at (x: 1627, y: 344) with width: 58 and height: 98
+2024-07-25 12:06:55,295 - __main__ - INFO - Detected character at (x: 1533, y: 346) with width: 72 and height: 100
+2024-07-25 12:06:55,295 - __main__ - INFO - Detected character at (x: 1415, y: 347) with width: 91 and height: 102
+2024-07-25 12:06:55,295 - __main__ - INFO - Detected character at (x: 1260, y: 349) with width: 135 and height: 105
+2024-07-25 12:06:55,295 - __main__ - INFO - Detected character at (x: 1012, y: 360) with width: 99 and height: 105
+2024-07-25 12:06:55,295 - __main__ - INFO - Detected character at (x: 932, y: 366) with width: 65 and height: 103
+2024-07-25 12:06:55,296 - __main__ - INFO - Detected character at (x: 843, y: 370) with width: 64 and height: 103
+2024-07-25 12:06:55,296 - __main__ - INFO - Detected character at (x: 746, y: 372) with width: 68 and height: 105
+2024-07-25 12:06:55,296 - __main__ - INFO - Detected character at (x: 628, y: 378) with width: 84 and height: 105
+2024-07-25 12:06:55,299 - __main__ - INFO - Detected character at (x: 781, y: 1035) with width: 79 and height: 35
+2024-07-25 12:06:55,302 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:55,303 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:55,308 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:55,316 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:55,353 - __main__ - INFO - Detected character at (x: 1687, y: 338) with width: 57 and height: 98
+2024-07-25 12:06:55,353 - __main__ - INFO - Detected character at (x: 1611, y: 340) with width: 58 and height: 99
+2024-07-25 12:06:55,353 - __main__ - INFO - Detected character at (x: 1516, y: 343) with width: 74 and height: 100
+2024-07-25 12:06:55,353 - __main__ - INFO - Detected character at (x: 1398, y: 345) with width: 92 and height: 103
+2024-07-25 12:06:55,353 - __main__ - INFO - Detected character at (x: 1243, y: 347) with width: 134 and height: 107
+2024-07-25 12:06:55,354 - __main__ - INFO - Detected character at (x: 995, y: 360) with width: 99 and height: 106
+2024-07-25 12:06:55,354 - __main__ - INFO - Detected character at (x: 914, y: 367) with width: 66 and height: 104
+2024-07-25 12:06:55,354 - __main__ - INFO - Detected character at (x: 825, y: 372) with width: 65 and height: 104
+2024-07-25 12:06:55,354 - __main__ - INFO - Detected character at (x: 729, y: 375) with width: 68 and height: 106
+2024-07-25 12:06:55,354 - __main__ - INFO - Detected character at (x: 611, y: 381) with width: 85 and height: 106
+2024-07-25 12:06:55,357 - __main__ - INFO - Detected character at (x: 769, y: 1039) with width: 79 and height: 36
+2024-07-25 12:06:55,360 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:55,362 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:55,366 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:55,374 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:55,410 - __main__ - INFO - Detected character at (x: 1684, y: 354) with width: 58 and height: 99
+2024-07-25 12:06:55,411 - __main__ - INFO - Detected character at (x: 1608, y: 357) with width: 59 and height: 99
+2024-07-25 12:06:55,411 - __main__ - INFO - Detected character at (x: 1513, y: 360) with width: 74 and height: 101
+2024-07-25 12:06:55,411 - __main__ - INFO - Detected character at (x: 1395, y: 362) with width: 92 and height: 103
+2024-07-25 12:06:55,411 - __main__ - INFO - Detected character at (x: 1240, y: 365) with width: 134 and height: 107
+2024-07-25 12:06:55,411 - __main__ - INFO - Detected character at (x: 991, y: 380) with width: 99 and height: 106
+2024-07-25 12:06:55,411 - __main__ - INFO - Detected character at (x: 1002, y: 387) with width: 80 and height: 92
+2024-07-25 12:06:55,411 - __main__ - INFO - Detected character at (x: 911, y: 387) with width: 66 and height: 104
+2024-07-25 12:06:55,411 - __main__ - INFO - Detected character at (x: 822, y: 392) with width: 65 and height: 104
+2024-07-25 12:06:55,411 - __main__ - INFO - Detected character at (x: 725, y: 395) with width: 69 and height: 106
+2024-07-25 12:06:55,411 - __main__ - INFO - Detected character at (x: 608, y: 401) with width: 85 and height: 107
+2024-07-25 12:06:55,417 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:55,419 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:55,424 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:55,432 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:55,470 - __main__ - INFO - Detected character at (x: 1683, y: 362) with width: 58 and height: 98
+2024-07-25 12:06:55,470 - __main__ - INFO - Detected character at (x: 1607, y: 365) with width: 59 and height: 99
+2024-07-25 12:06:55,470 - __main__ - INFO - Detected character at (x: 1512, y: 369) with width: 74 and height: 100
+2024-07-25 12:06:55,470 - __main__ - INFO - Detected character at (x: 1394, y: 371) with width: 92 and height: 103
+2024-07-25 12:06:55,470 - __main__ - INFO - Detected character at (x: 1238, y: 375) with width: 135 and height: 107
+2024-07-25 12:06:55,470 - __main__ - INFO - Detected character at (x: 990, y: 390) with width: 100 and height: 106
+2024-07-25 12:06:55,470 - __main__ - INFO - Detected character at (x: 910, y: 398) with width: 66 and height: 103
+2024-07-25 12:06:55,471 - __main__ - INFO - Detected character at (x: 821, y: 403) with width: 65 and height: 103
+2024-07-25 12:06:55,471 - __main__ - INFO - Detected character at (x: 725, y: 406) with width: 68 and height: 106
+2024-07-25 12:06:55,471 - __main__ - INFO - Detected character at (x: 608, y: 412) with width: 84 and height: 107
+2024-07-25 12:06:55,477 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:55,478 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:55,483 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:55,491 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:55,528 - __main__ - INFO - Detected character at (x: 1684, y: 364) with width: 58 and height: 99
+2024-07-25 12:06:55,528 - __main__ - INFO - Detected character at (x: 1608, y: 368) with width: 59 and height: 98
+2024-07-25 12:06:55,528 - __main__ - INFO - Detected character at (x: 1513, y: 371) with width: 74 and height: 101
+2024-07-25 12:06:55,528 - __main__ - INFO - Detected character at (x: 1395, y: 374) with width: 92 and height: 102
+2024-07-25 12:06:55,528 - __main__ - INFO - Detected character at (x: 1239, y: 377) with width: 135 and height: 107
+2024-07-25 12:06:55,528 - __main__ - INFO - Detected character at (x: 992, y: 392) with width: 98 and height: 106
+2024-07-25 12:06:55,528 - __main__ - INFO - Detected character at (x: 911, y: 400) with width: 66 and height: 104
+2024-07-25 12:06:55,529 - __main__ - INFO - Detected character at (x: 821, y: 405) with width: 66 and height: 104
+2024-07-25 12:06:55,529 - __main__ - INFO - Detected character at (x: 726, y: 408) with width: 69 and height: 106
+2024-07-25 12:06:55,529 - __main__ - INFO - Detected character at (x: 609, y: 414) with width: 84 and height: 107
+2024-07-25 12:06:55,535 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:55,537 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:55,541 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:55,549 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:55,585 - __main__ - INFO - Detected character at (x: 1672, y: 385) with width: 58 and height: 99
+2024-07-25 12:06:55,585 - __main__ - INFO - Detected character at (x: 1596, y: 388) with width: 59 and height: 100
+2024-07-25 12:06:55,585 - __main__ - INFO - Detected character at (x: 1501, y: 392) with width: 73 and height: 101
+2024-07-25 12:06:55,585 - __main__ - INFO - Detected character at (x: 1381, y: 394) with width: 92 and height: 104
+2024-07-25 12:06:55,585 - __main__ - INFO - Detected character at (x: 1226, y: 398) with width: 134 and height: 107
+2024-07-25 12:06:55,586 - __main__ - INFO - Detected character at (x: 977, y: 412) with width: 99 and height: 107
+2024-07-25 12:06:55,586 - __main__ - INFO - Detected character at (x: 896, y: 420) with width: 66 and height: 104
+2024-07-25 12:06:55,586 - __main__ - INFO - Detected character at (x: 807, y: 425) with width: 65 and height: 103
+2024-07-25 12:06:55,586 - __main__ - INFO - Detected character at (x: 711, y: 427) with width: 69 and height: 106
+2024-07-25 12:06:55,586 - __main__ - INFO - Detected character at (x: 595, y: 433) with width: 84 and height: 106
+2024-07-25 12:06:55,592 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:55,593 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:55,597 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:55,605 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:55,640 - __main__ - INFO - Detected character at (x: 1653, y: 414) with width: 59 and height: 100
+2024-07-25 12:06:55,640 - __main__ - INFO - Detected character at (x: 1577, y: 417) with width: 58 and height: 100
+2024-07-25 12:06:55,641 - __main__ - INFO - Detected character at (x: 1480, y: 420) with width: 73 and height: 102
+2024-07-25 12:06:55,641 - __main__ - INFO - Detected character at (x: 1359, y: 422) with width: 94 and height: 104
+2024-07-25 12:06:55,641 - __main__ - INFO - Detected character at (x: 1203, y: 425) with width: 136 and height: 107
+2024-07-25 12:06:55,641 - __main__ - INFO - Detected character at (x: 954, y: 437) with width: 99 and height: 106
+2024-07-25 12:06:55,641 - __main__ - INFO - Detected character at (x: 873, y: 443) with width: 66 and height: 104
+2024-07-25 12:06:55,641 - __main__ - INFO - Detected character at (x: 784, y: 447) with width: 65 and height: 104
+2024-07-25 12:06:55,641 - __main__ - INFO - Detected character at (x: 689, y: 449) with width: 68 and height: 105
+2024-07-25 12:06:55,641 - __main__ - INFO - Detected character at (x: 573, y: 454) with width: 83 and height: 105
+2024-07-25 12:06:55,647 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:55,648 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:55,652 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:55,660 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:55,698 - __main__ - INFO - Detected character at (x: 1653, y: 423) with width: 58 and height: 100
+2024-07-25 12:06:55,699 - __main__ - INFO - Detected character at (x: 1577, y: 426) with width: 58 and height: 100
+2024-07-25 12:06:55,699 - __main__ - INFO - Detected character at (x: 1480, y: 429) with width: 73 and height: 102
+2024-07-25 12:06:55,699 - __main__ - INFO - Detected character at (x: 1359, y: 431) with width: 94 and height: 104
+2024-07-25 12:06:55,699 - __main__ - INFO - Detected character at (x: 1203, y: 434) with width: 136 and height: 107
+2024-07-25 12:06:55,699 - __main__ - INFO - Detected character at (x: 953, y: 445) with width: 99 and height: 106
+2024-07-25 12:06:55,699 - __main__ - INFO - Detected character at (x: 873, y: 451) with width: 65 and height: 104
+2024-07-25 12:06:55,699 - __main__ - INFO - Detected character at (x: 784, y: 455) with width: 64 and height: 103
+2024-07-25 12:06:55,699 - __main__ - INFO - Detected character at (x: 689, y: 457) with width: 67 and height: 105
+2024-07-25 12:06:55,699 - __main__ - INFO - Detected character at (x: 572, y: 461) with width: 83 and height: 105
+2024-07-25 12:06:55,705 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:55,706 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:55,710 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:55,719 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:55,757 - __main__ - INFO - Detected character at (x: 1654, y: 423) with width: 58 and height: 100
+2024-07-25 12:06:55,758 - __main__ - INFO - Detected character at (x: 1579, y: 426) with width: 57 and height: 100
+2024-07-25 12:06:55,758 - __main__ - INFO - Detected character at (x: 1482, y: 429) with width: 72 and height: 101
+2024-07-25 12:06:55,758 - __main__ - INFO - Detected character at (x: 1360, y: 431) with width: 94 and height: 104
+2024-07-25 12:06:55,758 - __main__ - INFO - Detected character at (x: 1204, y: 434) with width: 136 and height: 107
+2024-07-25 12:06:55,758 - __main__ - INFO - Detected character at (x: 955, y: 445) with width: 99 and height: 106
+2024-07-25 12:06:55,758 - __main__ - INFO - Detected character at (x: 874, y: 451) with width: 65 and height: 104
+2024-07-25 12:06:55,758 - __main__ - INFO - Detected character at (x: 785, y: 455) with width: 65 and height: 103
+2024-07-25 12:06:55,758 - __main__ - INFO - Detected character at (x: 690, y: 457) with width: 67 and height: 105
+2024-07-25 12:06:55,758 - __main__ - INFO - Detected character at (x: 574, y: 462) with width: 82 and height: 104
+2024-07-25 12:06:55,765 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:55,766 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:55,770 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:55,779 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:55,816 - __main__ - INFO - Detected character at (x: 1655, y: 422) with width: 59 and height: 99
+2024-07-25 12:06:55,816 - __main__ - INFO - Detected character at (x: 1580, y: 425) with width: 58 and height: 99
+2024-07-25 12:06:55,817 - __main__ - INFO - Detected character at (x: 1483, y: 428) with width: 73 and height: 101
+2024-07-25 12:06:55,817 - __main__ - INFO - Detected character at (x: 1362, y: 430) with width: 93 and height: 103
+2024-07-25 12:06:55,817 - __main__ - INFO - Detected character at (x: 1206, y: 433) with width: 136 and height: 106
+2024-07-25 12:06:55,817 - __main__ - INFO - Detected character at (x: 957, y: 444) with width: 99 and height: 106
+2024-07-25 12:06:55,817 - __main__ - INFO - Detected character at (x: 876, y: 450) with width: 65 and height: 104
+2024-07-25 12:06:55,817 - __main__ - INFO - Detected character at (x: 787, y: 455) with width: 64 and height: 103
+2024-07-25 12:06:55,817 - __main__ - INFO - Detected character at (x: 692, y: 457) with width: 67 and height: 104
+2024-07-25 12:06:55,817 - __main__ - INFO - Detected character at (x: 575, y: 461) with width: 83 and height: 105
+2024-07-25 12:06:55,823 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:55,825 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:55,829 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:55,838 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:55,875 - __main__ - INFO - Detected character at (x: 1655, y: 422) with width: 59 and height: 99
+2024-07-25 12:06:55,876 - __main__ - INFO - Detected character at (x: 1580, y: 425) with width: 58 and height: 100
+2024-07-25 12:06:55,876 - __main__ - INFO - Detected character at (x: 1483, y: 428) with width: 73 and height: 101
+2024-07-25 12:06:55,876 - __main__ - INFO - Detected character at (x: 1362, y: 430) with width: 94 and height: 104
+2024-07-25 12:06:55,876 - __main__ - INFO - Detected character at (x: 1207, y: 433) with width: 136 and height: 107
+2024-07-25 12:06:55,876 - __main__ - INFO - Detected character at (x: 957, y: 444) with width: 99 and height: 107
+2024-07-25 12:06:55,877 - __main__ - INFO - Detected character at (x: 877, y: 451) with width: 64 and height: 103
+2024-07-25 12:06:55,877 - __main__ - INFO - Detected character at (x: 788, y: 455) with width: 64 and height: 103
+2024-07-25 12:06:55,877 - __main__ - INFO - Detected character at (x: 692, y: 456) with width: 67 and height: 106
+2024-07-25 12:06:55,877 - __main__ - INFO - Detected character at (x: 576, y: 461) with width: 83 and height: 105
+2024-07-25 12:06:55,883 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:55,884 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:55,888 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:55,897 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:55,936 - __main__ - INFO - Detected character at (x: 1655, y: 422) with width: 59 and height: 99
+2024-07-25 12:06:55,936 - __main__ - INFO - Detected character at (x: 1580, y: 425) with width: 58 and height: 100
+2024-07-25 12:06:55,936 - __main__ - INFO - Detected character at (x: 1483, y: 428) with width: 73 and height: 101
+2024-07-25 12:06:55,936 - __main__ - INFO - Detected character at (x: 1362, y: 430) with width: 94 and height: 104
+2024-07-25 12:06:55,937 - __main__ - INFO - Detected character at (x: 1206, y: 433) with width: 136 and height: 107
+2024-07-25 12:06:55,937 - __main__ - INFO - Detected character at (x: 957, y: 445) with width: 99 and height: 106
+2024-07-25 12:06:55,937 - __main__ - INFO - Detected character at (x: 876, y: 451) with width: 65 and height: 103
+2024-07-25 12:06:55,937 - __main__ - INFO - Detected character at (x: 787, y: 455) with width: 65 and height: 103
+2024-07-25 12:06:55,937 - __main__ - INFO - Detected character at (x: 692, y: 457) with width: 67 and height: 105
+2024-07-25 12:06:55,937 - __main__ - INFO - Detected character at (x: 575, y: 462) with width: 84 and height: 105
+2024-07-25 12:06:55,943 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:55,944 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:55,948 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:55,957 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:55,993 - __main__ - INFO - Detected character at (x: 1656, y: 422) with width: 58 and height: 99
+2024-07-25 12:06:55,994 - __main__ - INFO - Detected character at (x: 1580, y: 425) with width: 58 and height: 100
+2024-07-25 12:06:55,994 - __main__ - INFO - Detected character at (x: 1483, y: 428) with width: 73 and height: 101
+2024-07-25 12:06:55,994 - __main__ - INFO - Detected character at (x: 1362, y: 430) with width: 94 and height: 104
+2024-07-25 12:06:55,994 - __main__ - INFO - Detected character at (x: 1206, y: 433) with width: 137 and height: 107
+2024-07-25 12:06:55,994 - __main__ - INFO - Detected character at (x: 957, y: 445) with width: 99 and height: 106
+2024-07-25 12:06:55,994 - __main__ - INFO - Detected character at (x: 876, y: 451) with width: 65 and height: 103
+2024-07-25 12:06:55,994 - __main__ - INFO - Detected character at (x: 787, y: 455) with width: 64 and height: 103
+2024-07-25 12:06:55,994 - __main__ - INFO - Detected character at (x: 692, y: 457) with width: 68 and height: 105
+2024-07-25 12:06:55,995 - __main__ - INFO - Detected character at (x: 576, y: 461) with width: 83 and height: 105
+2024-07-25 12:06:56,000 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:56,002 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:56,006 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:56,014 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:56,051 - __main__ - INFO - Detected character at (x: 1656, y: 421) with width: 58 and height: 100
+2024-07-25 12:06:56,052 - __main__ - INFO - Detected character at (x: 1580, y: 425) with width: 58 and height: 99
+2024-07-25 12:06:56,052 - __main__ - INFO - Detected character at (x: 1483, y: 428) with width: 73 and height: 101
+2024-07-25 12:06:56,052 - __main__ - INFO - Detected character at (x: 1362, y: 430) with width: 94 and height: 103
+2024-07-25 12:06:56,052 - __main__ - INFO - Detected character at (x: 1206, y: 432) with width: 137 and height: 107
+2024-07-25 12:06:56,052 - __main__ - INFO - Detected character at (x: 957, y: 444) with width: 99 and height: 106
+2024-07-25 12:06:56,052 - __main__ - INFO - Detected character at (x: 876, y: 450) with width: 65 and height: 104
+2024-07-25 12:06:56,052 - __main__ - INFO - Detected character at (x: 787, y: 454) with width: 64 and height: 104
+2024-07-25 12:06:56,052 - __main__ - INFO - Detected character at (x: 692, y: 456) with width: 67 and height: 105
+2024-07-25 12:06:56,052 - __main__ - INFO - Detected character at (x: 575, y: 461) with width: 83 and height: 105
+2024-07-25 12:06:56,058 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:56,060 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:56,064 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:56,072 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:56,109 - __main__ - INFO - Detected character at (x: 1655, y: 422) with width: 59 and height: 99
+2024-07-25 12:06:56,110 - __main__ - INFO - Detected character at (x: 1580, y: 425) with width: 58 and height: 99
+2024-07-25 12:06:56,110 - __main__ - INFO - Detected character at (x: 1483, y: 428) with width: 73 and height: 101
+2024-07-25 12:06:56,110 - __main__ - INFO - Detected character at (x: 1362, y: 430) with width: 94 and height: 103
+2024-07-25 12:06:56,110 - __main__ - INFO - Detected character at (x: 1206, y: 433) with width: 136 and height: 107
+2024-07-25 12:06:56,110 - __main__ - INFO - Detected character at (x: 957, y: 444) with width: 99 and height: 106
+2024-07-25 12:06:56,110 - __main__ - INFO - Detected character at (x: 876, y: 451) with width: 65 and height: 103
+2024-07-25 12:06:56,110 - __main__ - INFO - Detected character at (x: 787, y: 455) with width: 65 and height: 103
+2024-07-25 12:06:56,110 - __main__ - INFO - Detected character at (x: 692, y: 456) with width: 68 and height: 105
+2024-07-25 12:06:56,110 - __main__ - INFO - Detected character at (x: 575, y: 461) with width: 84 and height: 105
+2024-07-25 12:06:56,116 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:56,118 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:56,122 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:56,130 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:56,167 - __main__ - INFO - Detected character at (x: 1655, y: 421) with width: 59 and height: 100
+2024-07-25 12:06:56,167 - __main__ - INFO - Detected character at (x: 1580, y: 425) with width: 58 and height: 99
+2024-07-25 12:06:56,167 - __main__ - INFO - Detected character at (x: 1483, y: 428) with width: 73 and height: 101
+2024-07-25 12:06:56,168 - __main__ - INFO - Detected character at (x: 1362, y: 430) with width: 94 and height: 103
+2024-07-25 12:06:56,168 - __main__ - INFO - Detected character at (x: 1207, y: 433) with width: 136 and height: 106
+2024-07-25 12:06:56,168 - __main__ - INFO - Detected character at (x: 957, y: 444) with width: 99 and height: 106
+2024-07-25 12:06:56,168 - __main__ - INFO - Detected character at (x: 876, y: 450) with width: 66 and height: 104
+2024-07-25 12:06:56,168 - __main__ - INFO - Detected character at (x: 787, y: 454) with width: 65 and height: 104
+2024-07-25 12:06:56,168 - __main__ - INFO - Detected character at (x: 692, y: 456) with width: 67 and height: 105
+2024-07-25 12:06:56,168 - __main__ - INFO - Detected character at (x: 575, y: 461) with width: 84 and height: 105
+2024-07-25 12:06:56,174 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:56,175 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:56,179 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:56,188 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:56,225 - __main__ - INFO - Detected character at (x: 1655, y: 421) with width: 59 and height: 100
+2024-07-25 12:06:56,225 - __main__ - INFO - Detected character at (x: 1580, y: 425) with width: 58 and height: 99
+2024-07-25 12:06:56,225 - __main__ - INFO - Detected character at (x: 1483, y: 428) with width: 73 and height: 101
+2024-07-25 12:06:56,225 - __main__ - INFO - Detected character at (x: 1362, y: 430) with width: 94 and height: 103
+2024-07-25 12:06:56,225 - __main__ - INFO - Detected character at (x: 1206, y: 433) with width: 136 and height: 106
+2024-07-25 12:06:56,225 - __main__ - INFO - Detected character at (x: 957, y: 444) with width: 99 and height: 106
+2024-07-25 12:06:56,225 - __main__ - INFO - Detected character at (x: 877, y: 450) with width: 65 and height: 104
+2024-07-25 12:06:56,225 - __main__ - INFO - Detected character at (x: 787, y: 454) with width: 64 and height: 104
+2024-07-25 12:06:56,225 - __main__ - INFO - Detected character at (x: 692, y: 456) with width: 67 and height: 105
+2024-07-25 12:06:56,225 - __main__ - INFO - Detected character at (x: 575, y: 461) with width: 84 and height: 105
+2024-07-25 12:06:56,231 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:56,233 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:56,237 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:56,245 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:56,282 - __main__ - INFO - Detected character at (x: 1656, y: 422) with width: 58 and height: 99
+2024-07-25 12:06:56,283 - __main__ - INFO - Detected character at (x: 1580, y: 425) with width: 58 and height: 99
+2024-07-25 12:06:56,283 - __main__ - INFO - Detected character at (x: 1483, y: 428) with width: 73 and height: 101
+2024-07-25 12:06:56,283 - __main__ - INFO - Detected character at (x: 1362, y: 430) with width: 94 and height: 104
+2024-07-25 12:06:56,283 - __main__ - INFO - Detected character at (x: 1206, y: 433) with width: 137 and height: 107
+2024-07-25 12:06:56,283 - __main__ - INFO - Detected character at (x: 957, y: 444) with width: 99 and height: 106
+2024-07-25 12:06:56,283 - __main__ - INFO - Detected character at (x: 877, y: 450) with width: 64 and height: 104
+2024-07-25 12:06:56,283 - __main__ - INFO - Detected character at (x: 787, y: 455) with width: 65 and height: 103
+2024-07-25 12:06:56,283 - __main__ - INFO - Detected character at (x: 692, y: 457) with width: 67 and height: 104
+2024-07-25 12:06:56,283 - __main__ - INFO - Detected character at (x: 575, y: 461) with width: 84 and height: 105
+2024-07-25 12:06:56,289 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:56,291 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:56,295 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:56,304 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:56,343 - __main__ - INFO - Detected character at (x: 1655, y: 421) with width: 59 and height: 100
+2024-07-25 12:06:56,343 - __main__ - INFO - Detected character at (x: 1580, y: 425) with width: 58 and height: 99
+2024-07-25 12:06:56,343 - __main__ - INFO - Detected character at (x: 1483, y: 428) with width: 73 and height: 101
+2024-07-25 12:06:56,344 - __main__ - INFO - Detected character at (x: 1362, y: 430) with width: 94 and height: 103
+2024-07-25 12:06:56,344 - __main__ - INFO - Detected character at (x: 1206, y: 433) with width: 137 and height: 107
+2024-07-25 12:06:56,344 - __main__ - INFO - Detected character at (x: 957, y: 444) with width: 99 and height: 106
+2024-07-25 12:06:56,344 - __main__ - INFO - Detected character at (x: 877, y: 450) with width: 64 and height: 104
+2024-07-25 12:06:56,344 - __main__ - INFO - Detected character at (x: 787, y: 454) with width: 64 and height: 104
+2024-07-25 12:06:56,344 - __main__ - INFO - Detected character at (x: 692, y: 456) with width: 67 and height: 105
+2024-07-25 12:06:56,344 - __main__ - INFO - Detected character at (x: 575, y: 461) with width: 84 and height: 105
+2024-07-25 12:06:56,350 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:56,352 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:56,356 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:56,361 - __main__ - INFO - Extracting character(s) from current frame
+2024-07-25 12:06:56,401 - __main__ - INFO - Detected character at (x: 1655, y: 422) with width: 59 and height: 99
+2024-07-25 12:06:56,401 - __main__ - INFO - Detected character at (x: 1580, y: 425) with width: 58 and height: 99
+2024-07-25 12:06:56,401 - __main__ - INFO - Detected character at (x: 1483, y: 428) with width: 73 and height: 101
+2024-07-25 12:06:56,401 - __main__ - INFO - Detected character at (x: 1362, y: 430) with width: 94 and height: 104
+2024-07-25 12:06:56,401 - __main__ - INFO - Detected character at (x: 1206, y: 433) with width: 136 and height: 107
+2024-07-25 12:06:56,401 - __main__ - INFO - Detected character at (x: 957, y: 444) with width: 99 and height: 106
+2024-07-25 12:06:56,402 - __main__ - INFO - Detected character at (x: 876, y: 450) with width: 65 and height: 104
+2024-07-25 12:06:56,402 - __main__ - INFO - Detected character at (x: 787, y: 455) with width: 64 and height: 103
+2024-07-25 12:06:56,402 - __main__ - INFO - Detected character at (x: 692, y: 456) with width: 67 and height: 105
+2024-07-25 12:06:56,402 - __main__ - INFO - Detected character at (x: 575, y: 461) with width: 83 and height: 105
+2024-07-25 12:06:56,408 - __main__ - INFO - Displaying overlay on video
+2024-07-25 12:06:56,409 - __main__ - INFO - Performing character inference
+2024-07-25 12:06:56,413 - __main__ - INFO - CUDA inference completed
+2024-07-25 12:06:56,525 - __main__ - INFO - Freeing program resources
+2024-07-25 12:06:56,527 - __main__ - INFO - Program finished
