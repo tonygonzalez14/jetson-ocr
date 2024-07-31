@@ -5,7 +5,7 @@ The image training dataset used for this project contains alphanumeric English c
 
 **Note:** The dataset is in its original state with no modifications or noise added. To make the modifications that were used in the training of the model, you must use the _training_data_noise.py_ script (see below).
 
-For more information on training the model please see [README - Model](https://jira.a2etechnologies.com:8444/projects/AEOCR/repos/jetson-ocr/browse/code/model/README.md)
+For more information on training the model please see [README - Model](https://github.com/tonygonzalez14/jetson-ocr/tree/main/code/model)
 
 ---
 # Dependencies
