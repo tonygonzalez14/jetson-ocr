@@ -15,7 +15,7 @@ Before training the model, ensure that the dataset is properly prepared:
 2. **Apply Noise**:
     - To enhance the robustness of the model, noise is applied to the dataset. Use the `training_data_noise.py` script found in the `code/utilities` folder. This script processes the images by adding noise, which helps simulate real-world conditions and improve model generalization
 
-For more details and further instructions please see [README - Data](https://jira.a2etechnologies.com:8444/projects/AEOCR/repos/jetson-ocr/browse/data/README.md?until=7a04c5cde9b1568d155fa5f6695637e190a3b5eb&untilPath=data%2FREADME.md)
+For more details and further instructions please see [README - Data](https://github.com/tonygonzalez14/jetson-ocr/tree/main/data)
 
 ---
 # Model Training
