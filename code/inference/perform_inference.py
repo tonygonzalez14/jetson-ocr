@@ -1,3 +1,32 @@
+"""
+Script to perform real-time Optical Character Recognition (OCR) using CUDA on the NVIDIA Jetson Orin Nano Development Platform.
+The system uses OpenCV to manage live video streaming, detect character-objects, produce an overlay, and interface with the CUDA Inference API.
+Efficient data transfer and communication between the Python controller and the GPU-accelerated neural network are facilitated by the CTypes library.
+
+Directory structure:
+- This script should be placed in jetson-ocr/code/inference.
+- The configuration file should be in jetson-ocr/code/inference.
+- The shared object file for CUDA inference should be in jetson-ocr/code/inference.
+
+Dependencies:
+- numpy
+- opencv-python
+- ctypes
+- argparse
+- json
+
+Usage:
+1. Ensure the configuration file (inference_config.json) and the shared object file (libcuda_inference.so) are in the correct directory.
+2. Run this script from the command line with optional arguments:
+   python3 main_inference.py [-n NUMBER] [-v] [-c CONFIG]
+
+Arguments:
+- -n, --number: Set the maximum number of characters to process (default: 30, must be between 1 and 30).
+- -v, --verbose: Display additional information such as FPS, inference time, and number of detected objects.
+- -c, --config: Path to the configuration JSON file (default: inference_config.json).
+
+The script captures video frames, extracts characters, performs CUDA-based inference, and displays the results with bounding boxes and confidence scores.
+"""
 import cv2
 import time
 import ctypes
